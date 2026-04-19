@@ -1,0 +1,64 @@
+Year,GP,Track_Type,Track_DNA,Driver,Team,Q1_Time,Q2_Time,Q3_Time,Q1_Pos,Q2_Pos,Final_Pos,TrackTemp,Rain
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,George Russell,Mercedes,79.507,78.934,78.518,1,1.0,1,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Kimi Antonelli,Mercedes,80.12,79.435,78.811,6,3.0,2,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Isack Hadjar,Red Bull Racing,80.023,79.653,79.303,5,5.0,3,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Charles Leclerc,Ferrari,80.226,79.357,79.327,7,2.0,4,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Oscar Piastri,McLaren,79.664,79.525,79.38,2,4.0,5,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lando Norris,McLaren,80.01,79.882,79.475,4,6.0,6,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lewis Hamilton,Ferrari,79.811,79.921,79.478,3,7.0,7,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Liam Lawson,Racing Bulls,80.491,80.144,79.994,9,9.0,8,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Arvid Lindblad,Racing Bulls,80.409,79.971,81.247,8,8.0,9,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Gabriel Bortoleto,Audi,80.495,80.221,,10,10.0,10,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Nico Hulkenberg,Audi,81.024,80.303,,12,11.0,11,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Oliver Bearman,Haas,81.247,80.311,,16,12.0,12,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Esteban Ocon,Haas,80.759,80.491,,11,13.0,13,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Pierre Gasly,Alpine,81.138,80.501,,14,14.0,14,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Alexander Albon,Williams,81.051,80.941,,13,15.0,15,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Franco Colapinto,Alpine,81.2,81.27,,15,16.0,16,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Fernando Alonso,Aston Martin,81.969,,,17,,17,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Sergio Perez,Cadillac,82.605,,,18,,18,34.27263157894737,0
+2026,Australian Grand Prix,Street/Hybrid,Medium-Speed,Valtteri Bottas,Cadillac,83.244,,,19,,19,34.27263157894737,0
+2026,Chinese Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,93.305,92.443,92.064,3,1.0,1,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,George Russell,Mercedes,93.262,92.523,92.286,2,3.0,2,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,93.522,92.567,92.415,5,4.0,3,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,93.175,92.486,92.428,1,2.0,4,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,93.59,93.13,92.55,8,8.0,5,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Lando Norris,McLaren,93.535,92.91,92.608,6,5.0,6,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,93.788,93.003,92.873,12,6.0,7,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,93.417,93.098,93.002,4,7.0,8,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Isack Hadjar,Red Bull Racing,93.632,93.352,93.121,9,10.0,9,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Oliver Bearman,Haas,93.687,93.197,93.292,11,9.0,10,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Nico Hulkenberg,Audi,94.116,93.354,,15,11.0,11,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,93.634,93.357,,10,12.0,12,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Esteban Ocon,Haas,93.974,93.538,,14,13.0,13,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,94.139,93.765,,16,14.0,14,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Arvid Lindblad,Racing Bulls,93.906,93.784,,13,15.0,15,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Gabriel Bortoleto,Audi,93.549,93.965,,7,16.0,16,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Carlos Sainz,Williams,94.317,,,17,,17,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Alexander Albon,Williams,94.772,,,18,,18,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,95.203,,,19,,19,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Valtteri Bottas,Cadillac,95.436,,,20,,20,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,95.995,,,21,,21,30.99493670886076,0
+2026,Chinese Grand Prix,Permanent,Standard,Sergio Perez,Cadillac,96.906,,,22,,22,30.99493670886076,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Kimi Antonelli,Mercedes,90.035,89.048,88.778,3,1.0,1,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,George Russell,Mercedes,89.967,89.686,89.076,2,5.0,2,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Oscar Piastri,McLaren,90.2,89.451,89.132,4,3.0,3,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Charles Leclerc,Ferrari,89.915,89.303,89.405,1,2.0,4,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lando Norris,McLaren,90.401,89.795,89.409,8,6.0,5,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lewis Hamilton,Ferrari,90.309,89.589,89.567,5,4.0,6,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Pierre Gasly,Alpine,90.584,89.874,89.691,10,7.0,7,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Isack Hadjar,Red Bull Racing,90.662,90.104,89.978,12,9.0,8,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Gabriel Bortoleto,Audi,90.359,89.99,90.274,7,8.0,9,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Arvid Lindblad,Racing Bulls,90.781,90.109,90.319,13,10.0,10,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Max Verstappen,Red Bull Racing,90.519,90.262,,9,11.0,11,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Esteban Ocon,Haas,90.915,90.309,,14,12.0,12,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Nico Hulkenberg,Audi,90.358,90.387,,6,13.0,13,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Liam Lawson,Racing Bulls,90.657,90.495,,11,14.0,14,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Franco Colapinto,Alpine,90.931,90.627,,16,15.0,15,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Carlos Sainz,Williams,90.927,91.033,,15,16.0,16,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Alexander Albon,Williams,91.088,,,17,,17,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Oliver Bearman,Haas,91.09,,,18,,18,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Sergio Perez,Cadillac,92.206,,,19,,19,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Valtteri Bottas,Cadillac,92.33,,,20,,20,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Fernando Alonso,Aston Martin,92.646,,,21,,21,29.666666666666668,0
+2026,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lance Stroll,Aston Martin,92.92,,,22,,22,29.666666666666668,0

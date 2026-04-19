@@ -1,0 +1,480 @@
+Year,GP,Track_Type,Track_DNA,Driver,Team,Q1_Time,Q2_Time,Q3_Time,Q1_Pos,Q2_Pos,Final_Pos,TrackTemp,Rain
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Max Verstappen,Red Bull Racing,90.031,89.374,89.179,3.0,2.0,1,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Charles Leclerc,Ferrari,90.243,89.165,89.407,7.0,1.0,2,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,George Russell,Mercedes,90.35,89.922,89.485,8.0,7.0,3,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Carlos Sainz,Ferrari,89.909,89.573,89.507,1.0,3.0,4,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Sergio Perez,Red Bull Racing,90.221,89.932,89.537,6.0,8.0,5,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Fernando Alonso,Aston Martin,90.179,89.801,89.542,5.0,5.0,6,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Lando Norris,McLaren,90.143,89.941,89.614,4.0,9.0,7,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Oscar Piastri,McLaren,90.531,90.122,89.683,12.0,10.0,8,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Lewis Hamilton,Mercedes,90.451,89.718,89.71,10.0,4.0,9,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Nico Hulkenberg,Haas,90.566,89.851,90.502,14.0,6.0,10,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Yuki Tsunoda,Racing Bulls,90.481,90.129,,11.0,11.0,11,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Lance Stroll,Aston Martin,89.965,90.2,,2.0,12.0,12,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Alexander Albon,Williams,90.397,90.221,,9.0,13.0,13,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Daniel Ricciardo,Racing Bulls,90.562,90.278,,13.0,14.0,14,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Kevin Magnussen,Haas,90.646,90.529,,15.0,15.0,15,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Valtteri Bottas,Kick Sauber,90.756,,,16.0,,16,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Guanyu Zhou,Kick Sauber,90.757,,,17.0,,17,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Logan Sargeant,Williams,90.77,,,18.0,,18,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Esteban Ocon,Alpine,90.793,,,19.0,,19,21.51428571428572,0
+2024,Bahrain Grand Prix,Permanent,Traction & Braking,Pierre Gasly,Alpine,90.948,,,20.0,,20,21.51428571428572,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Max Verstappen,Red Bull Racing,88.171,88.033,87.472,1.0,1.0,1,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Charles Leclerc,Ferrari,88.318,88.112,87.791,3.0,2.0,2,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Sergio Perez,Red Bull Racing,88.638,88.467,87.807,4.0,6.0,3,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Fernando Alonso,Aston Martin,88.706,88.122,87.846,5.0,3.0,4,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Oscar Piastri,McLaren,88.755,88.343,88.089,7.0,4.0,5,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lando Norris,McLaren,88.805,88.479,88.132,8.0,7.0,6,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,George Russell,Mercedes,88.749,88.448,88.316,6.0,5.0,7,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lewis Hamilton,Mercedes,88.994,88.606,88.46,11.0,10.0,8,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Yuki Tsunoda,Racing Bulls,88.988,88.564,88.547,10.0,8.0,9,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lance Stroll,Aston Martin,88.25,88.578,88.572,2.0,9.0,10,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Oliver Bearman,Ferrari,88.984,88.642,,9.0,11.0,11,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Alexander Albon,Williams,89.107,88.98,,15.0,12.0,12,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Kevin Magnussen,Haas,89.069,89.02,,14.0,13.0,13,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Daniel Ricciardo,Racing Bulls,89.065,89.025,,13.0,14.0,14,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Nico Hulkenberg,Haas,89.055,,,12.0,,15,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Valtteri Bottas,Kick Sauber,89.179,,,16.0,,16,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Esteban Ocon,Alpine,89.475,,,17.0,,17,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Pierre Gasly,Alpine,89.479,,,18.0,,18,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Logan Sargeant,Williams,89.526,,,19.0,,19,30.786170212765963,0
+2024,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Guanyu Zhou,Kick Sauber,,,,,,20,30.786170212765963,0
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Max Verstappen,Red Bull Racing,76.819,76.387,75.915,3.0,3.0,1,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Carlos Sainz,Ferrari,76.731,76.189,76.185,1.0,1.0,2,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Sergio Perez,Red Bull Racing,76.805,76.631,76.274,2.0,5.0,3,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lando Norris,McLaren,77.43,76.75,76.315,11.0,7.0,4,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Charles Leclerc,Ferrari,76.984,76.304,76.435,4.0,2.0,5,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Oscar Piastri,McLaren,77.369,76.601,76.572,9.0,4.0,6,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,George Russell,Mercedes,77.062,76.901,76.724,6.0,10.0,7,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Yuki Tsunoda,Racing Bulls,77.356,76.791,76.788,8.0,9.0,8,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lance Stroll,Aston Martin,77.376,76.78,77.072,10.0,8.0,9,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Fernando Alonso,Aston Martin,76.991,76.71,77.552,5.0,6.0,10,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lewis Hamilton,Mercedes,77.499,76.96,,12.0,11.0,11,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Alexander Albon,Williams,77.13,77.167,,7.0,12.0,12,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Valtteri Bottas,Kick Sauber,77.543,77.34,,13.0,13.0,13,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Kevin Magnussen,Haas,77.709,77.427,,15.0,14.0,14,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Esteban Ocon,Alpine,77.617,77.697,,14.0,15.0,15,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Nico Hulkenberg,Haas,77.976,,,16.0,,16,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Pierre Gasly,Alpine,77.982,,,17.0,,17,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Daniel Ricciardo,Racing Bulls,78.085,,,18.0,,18,34.414102564102556,1
+2024,Australian Grand Prix,Street/Hybrid,Medium-Speed,Guanyu Zhou,Kick Sauber,78.188,,,19.0,,19,34.414102564102556,1
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Max Verstappen,Red Bull Racing,88.866,88.74,88.197,1.0,1.0,1,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Sergio Perez,Red Bull Racing,89.303,88.752,88.263,3.0,2.0,2,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lando Norris,McLaren,89.536,88.94,88.489,7.0,4.0,3,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Carlos Sainz,Ferrari,89.513,89.099,88.682,6.0,6.0,4,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Fernando Alonso,Aston Martin,89.254,89.082,88.686,2.0,5.0,5,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Oscar Piastri,McLaren,89.425,89.148,88.76,5.0,8.0,6,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lewis Hamilton,Mercedes,89.661,88.887,88.766,9.0,3.0,7,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Charles Leclerc,Ferrari,89.338,89.196,88.786,4.0,9.0,8,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,George Russell,Mercedes,89.799,89.14,89.008,12.0,7.0,9,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Yuki Tsunoda,Racing Bulls,89.775,89.417,89.413,11.0,10.0,10,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Daniel Ricciardo,Racing Bulls,89.727,89.472,,10.0,11.0,11,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Nico Hulkenberg,Haas,89.821,89.494,,14.0,12.0,12,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Valtteri Bottas,Kick Sauber,89.602,89.593,,8.0,13.0,13,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Alexander Albon,Williams,89.963,89.714,,15.0,14.0,14,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Esteban Ocon,Alpine,89.811,89.816,,13.0,15.0,15,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lance Stroll,Aston Martin,90.024,,,16.0,,16,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Pierre Gasly,Alpine,90.119,,,17.0,,17,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Kevin Magnussen,Haas,90.131,,,18.0,,18,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Logan Sargeant,Williams,90.139,,,19.0,,19,26.710526315789473,0
+2024,Japanese Grand Prix,Permanent,High-Speed-Flowing,Guanyu Zhou,Kick Sauber,90.143,,,20.0,,20,26.710526315789473,0
+2024,Chinese Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,94.742,93.794,93.66,1.0,1.0,1,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,95.457,94.026,93.982,15.0,2.0,2,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,95.116,94.652,94.148,8.0,7.0,3,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Lando Norris,McLaren,94.842,94.46,94.165,3.0,5.0,4,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,95.014,94.659,94.273,5.0,8.0,5,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,94.797,94.399,94.289,2.0,4.0,6,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,94.97,94.368,94.297,4.0,3.0,7,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,George Russell,Mercedes,95.084,94.609,94.433,7.0,6.0,8,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,95.068,94.667,94.604,6.0,9.0,9,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,95.169,94.769,94.665,9.0,10.0,10,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,95.334,94.838,,11.0,11.0,11,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,95.443,94.934,,14.0,12.0,12,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,95.356,95.223,,12.0,13.0,13,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Alexander Albon,Williams,95.384,95.241,,13.0,14.0,14,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,95.287,95.463,,10.0,15.0,15,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,95.505,,,16.0,,16,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,95.516,,,17.0,,17,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,95.573,,,18.0,,18,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,95.746,,,19.0,,19,33.88837209302326,0
+2024,Chinese Grand Prix,Permanent,Standard,Logan Sargeant,Williams,96.358,,,20.0,,20,33.88837209302326,0
+2024,Miami Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,87.689,87.566,87.241,1.0,2.0,1,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,88.081,87.533,87.382,7.0,1.0,2,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,87.937,87.941,87.455,4.0,7.0,3,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,87.772,87.839,87.46,2.0,5.0,4,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Lando Norris,McLaren,87.913,87.871,87.594,3.0,6.0,5,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,88.032,87.721,87.675,6.0,4.0,6,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,George Russell,Mercedes,88.159,88.095,88.067,8.0,8.0,7,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,88.167,87.697,88.107,9.0,3.0,8,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,88.383,88.2,88.146,14.0,10.0,9,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,88.324,88.167,88.192,12.0,9.0,10,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,88.177,88.222,,10.0,11.0,11,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,87.976,88.324,,5.0,12.0,12,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,88.209,88.371,,11.0,13.0,13,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Alexander Albon,Williams,88.343,88.413,,13.0,14.0,14,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,88.453,88.427,,15.0,15.0,15,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,88.463,,,16.0,,16,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Logan Sargeant,Williams,88.487,,,17.0,,17,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,88.617,,,18.0,,18,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,88.619,,,19.0,,19,47.29480519480519,0
+2024,Miami Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,88.824,,,20.0,,20,47.29480519480519,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,75.762,75.176,74.746,1.0,1.0,1,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,75.94,75.407,74.82,6.0,5.0,2,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Lando Norris,McLaren,75.915,75.371,74.837,5.0,4.0,3,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,75.823,75.328,74.97,2.0,2.0,4,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,76.015,75.512,75.233,7.0,6.0,5,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,George Russell,Mercedes,76.107,75.671,75.234,10.0,8.0,6,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,75.894,75.358,75.465,4.0,3.0,7,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,76.604,75.677,75.504,15.0,9.0,8,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,76.06,75.691,75.674,9.0,10.0,9,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,75.841,75.569,75.98,3.0,7.0,10,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,76.404,75.706,,12.0,11.0,11,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,76.361,75.906,,11.0,12.0,12,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,76.458,75.992,,13.0,13.0,13,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Alexander Albon,Williams,76.524,76.2,,14.0,14.0,14,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,76.015,76.381,,7.0,15.0,15,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,76.626,,,16.0,,16,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,76.834,,,17.0,,17,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,76.854,,,18.0,,18,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,76.917,,,19.0,,19,41.55866666666667,0
+2024,Emilia Romagna Grand Prix,Permanent,Standard,Logan Sargeant,Williams,,,,,,20,41.55866666666667,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Charles Leclerc,Ferrari,71.584,70.825,70.27,5.0,4.0,1,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Oscar Piastri,McLaren,71.5,70.756,70.424,2.0,3.0,2,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Carlos Sainz,Ferrari,71.543,71.075,70.518,4.0,8.0,3,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lando Norris,McLaren,71.76,70.732,70.542,10.0,1.0,4,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,George Russell,Mercedes,71.492,70.929,70.543,1.0,6.0,5,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Max Verstappen,Red Bull Racing,71.711,70.745,70.567,7.0,2.0,6,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lewis Hamilton,Mercedes,71.528,71.056,70.621,3.0,7.0,7,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Yuki Tsunoda,Racing Bulls,71.852,71.106,70.858,13.0,9.0,8,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Alexander Albon,Williams,71.623,71.216,70.948,6.0,10.0,9,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Pierre Gasly,Alpine,71.714,70.896,71.311,8.0,5.0,10,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Esteban Ocon,Alpine,71.887,71.285,,15.0,11.0,11,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Daniel Ricciardo,Racing Bulls,71.785,71.482,,11.0,13.0,12,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lance Stroll,Aston Martin,71.728,71.563,,9.0,14.0,13,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Nico Hulkenberg,Haas,71.876,71.44,,14.0,12.0,14,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Fernando Alonso,Aston Martin,72.019,,,16.0,,14,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Logan Sargeant,Williams,72.02,,,17.0,,15,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Kevin Magnussen,Haas,71.832,71.725,,12.0,15.0,15,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Sergio Perez,Red Bull Racing,72.06,,,18.0,,16,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Valtteri Bottas,Kick Sauber,72.512,,,19.0,,17,44.72631578947369,0
+2024,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Guanyu Zhou,Kick Sauber,73.028,,,20.0,,18,44.72631578947369,0
+2024,Canadian Grand Prix,Permanent,Standard,George Russell,Mercedes,73.013,71.742,72.0,7.0,1.0,1,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,72.36,72.549,72.0,1.0,7.0,2,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Lando Norris,McLaren,72.959,72.201,72.021,6.0,3.0,3,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,72.907,72.462,72.103,5.0,5.0,4,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,73.24,72.572,72.178,14.0,8.0,5,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,73.117,72.635,72.228,12.0,9.0,6,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,72.851,71.979,72.28,3.0,2.0,7,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,72.748,72.303,72.414,2.0,4.0,8,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,73.088,72.659,72.701,10.0,10.0,9,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Alexander Albon,Williams,72.896,72.485,72.796,4.0,6.0,10,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,73.107,72.691,,11.0,11.0,11,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,73.038,72.728,,8.0,12.0,12,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Logan Sargeant,Williams,73.063,72.736,,9.0,13.0,13,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,73.217,72.916,,13.0,14.0,14,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,73.289,72.94,,15.0,15.0,15,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,73.326,,,16.0,,16,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,73.366,,,17.0,,17,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,73.435,,,18.0,,18,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,73.978,,,19.0,,19,31.116666666666653,1
+2024,Canadian Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,74.292,,,20.0,,20,31.116666666666653,1
+2024,Spanish Grand Prix,Permanent,Standard,Lando Norris,McLaren,72.386,71.872,71.383,4.0,4.0,1,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,72.306,71.653,71.403,3.0,1.0,2,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,72.143,71.792,71.701,1.0,2.0,3,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,George Russell,Mercedes,72.456,71.812,71.703,6.0,3.0,4,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,72.257,72.038,71.731,2.0,7.0,5,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,72.403,71.874,71.736,5.0,5.0,6,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,72.651,72.079,71.857,10.0,9.0,7,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,72.477,72.054,72.061,8.0,8.0,8,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,72.691,72.109,72.125,11.0,10.0,9,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,72.46,72.011,,7.0,6.0,10,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,72.505,72.128,,9.0,11.0,11,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,72.758,72.227,,13.0,12.0,12,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,72.708,72.31,,12.0,13.0,13,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,72.881,72.372,,15.0,14.0,14,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,72.88,72.738,,14.0,15.0,15,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,72.937,,,16.0,,16,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,72.985,,,17.0,,17,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,73.075,,,18.0,,18,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Alexander Albon,Williams,73.153,,,19.0,,19,36.535526315789475,0
+2024,Spanish Grand Prix,Permanent,Standard,Logan Sargeant,Williams,73.509,,,20.0,,20,36.535526315789475,0
+2024,Austrian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,65.336,64.469,64.314,3.0,1.0,1,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Lando Norris,McLaren,65.45,65.103,64.718,4.0,6.0,2,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,George Russell,Mercedes,65.585,65.016,64.84,11.0,2.0,3,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,65.263,65.016,64.851,1.0,2.0,4,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,65.541,65.053,64.903,7.0,4.0,5,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,65.509,65.104,65.044,6.0,7.0,6,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,65.311,65.07,65.048,2.0,5.0,7,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,65.587,65.144,65.202,12.0,8.0,8,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,65.596,65.262,65.385,13.0,9.0,9,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,65.574,65.274,65.883,10.0,10.0,10,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,65.569,65.289,,9.0,11.0,11,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,65.508,65.347,,5.0,12.0,12,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,65.598,65.359,,14.0,13.0,13,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,65.563,65.412,,8.0,14.0,14,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,65.656,65.639,,15.0,15.0,15,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Alexander Albon,Williams,65.736,,,16.0,,16,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,65.819,,,17.0,,17,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,65.847,,,18.0,,18,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Logan Sargeant,Williams,65.856,,,19.0,,19,46.107894736842105,0
+2024,Austrian Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,66.061,,,20.0,,20,46.107894736842105,0
+2024,British Grand Prix,Permanent,Ultra-High-Speed,George Russell,Mercedes,90.106,86.723,85.819,2.0,2.0,1,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Lewis Hamilton,Mercedes,89.547,86.77,85.99,1.0,5.0,2,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Lando Norris,McLaren,91.596,86.559,86.03,13.0,1.0,3,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Max Verstappen,Red Bull Racing,91.342,86.796,86.203,11.0,6.0,4,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Oscar Piastri,McLaren,90.895,86.733,86.237,5.0,4.0,5,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Nico Hulkenberg,Haas,91.929,86.847,86.338,15.0,8.0,6,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Carlos Sainz,Ferrari,90.557,86.843,86.509,4.0,7.0,7,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Lance Stroll,Aston Martin,91.41,86.938,86.585,12.0,10.0,8,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Alexander Albon,Williams,91.135,86.933,86.64,7.0,9.0,9,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Fernando Alonso,Aston Martin,91.264,86.73,86.917,9.0,3.0,10,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Charles Leclerc,Ferrari,90.496,87.097,,3.0,11.0,11,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Logan Sargeant,Williams,91.608,87.175,,14.0,12.0,12,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Yuki Tsunoda,Racing Bulls,90.994,87.269,,6.0,13.0,13,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Guanyu Zhou,Kick Sauber,91.19,87.867,,8.0,14.0,14,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Daniel Ricciardo,Racing Bulls,91.291,87.949,,10.0,15.0,15,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Valtteri Bottas,Kick Sauber,92.431,,,16.0,,16,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Kevin Magnussen,Haas,92.905,,,17.0,,17,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Esteban Ocon,Alpine,94.557,,,18.0,,18,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Sergio Perez,Red Bull Racing,98.348,,,19.0,,19,21.21529411764706,1
+2024,British Grand Prix,Permanent,Ultra-High-Speed,Pierre Gasly,Alpine,99.804,,,20.0,,20,21.21529411764706,1
+2024,Hungarian Grand Prix,Permanent,Standard,Lando Norris,McLaren,77.755,75.54,75.227,13.0,1.0,1,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,77.504,75.785,75.249,11.0,3.0,2,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,77.087,75.77,75.273,2.0,2.0,3,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,77.244,75.885,75.696,4.0,4.0,4,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,77.087,76.307,75.854,2.0,10.0,5,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,77.437,75.891,75.905,9.0,5.0,6,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,77.624,76.117,76.043,12.0,7.0,7,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,77.405,76.075,76.244,7.0,6.0,8,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,77.05,76.202,76.447,1.0,9.0,9,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,77.436,76.121,76.477,8.0,8.0,10,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,77.362,76.317,,6.0,11.0,11,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,77.487,76.384,,10.0,12.0,12,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Alexander Albon,Williams,77.28,76.429,,5.0,13.0,13,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Logan Sargeant,Williams,77.77,76.543,,14.0,14.0,14,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,77.851,76.548,,15.0,15.0,15,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,77.886,,,16.0,,16,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,George Russell,Mercedes,77.968,,,17.0,,17,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,78.037,,,18.0,,18,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,78.049,,,19.0,,19,30.31333333333333,1
+2024,Hungarian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,78.166,,,20.0,,20,30.31333333333333,1
+2024,Belgian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,114.938,113.837,113.159,3.0,1.0,1,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,115.349,114.193,113.754,6.0,6.0,2,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,115.139,114.47,113.765,4.0,10.0,3,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,115.692,114.037,113.835,13.0,2.0,4,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Lando Norris,McLaren,115.582,114.358,113.981,12.0,8.0,5,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,114.835,114.136,114.027,1.0,5.0,6,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,George Russell,Mercedes,115.353,114.095,114.184,7.0,3.0,7,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,115.169,114.112,114.477,5.0,4.0,8,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,115.489,114.258,114.765,10.0,7.0,9,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,115.417,114.46,114.81,8.0,9.0,10,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Alexander Albon,Williams,115.722,114.473,,14.0,11.0,11,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,114.911,114.635,,2.0,12.0,12,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,115.451,114.682,,9.0,13.0,13,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,115.531,114.764,,11.0,14.0,14,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,116.072,115.716,,15.0,15.0,15,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,116.308,,,16.0,,16,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,116.5,,,17.0,,17,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,116.593,,,18.0,,18,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Logan Sargeant,Williams,117.23,,,19.0,,19,22.02278481012658,1
+2024,Belgian Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,117.775,,,20.0,,20,22.02278481012658,1
+2024,Dutch Grand Prix,Permanent,Standard,Lando Norris,McLaren,71.377,70.496,69.673,6.0,1.0,1,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,71.393,70.811,70.029,7.0,8.0,2,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,71.541,70.505,70.172,10.0,2.0,3,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,George Russell,Mercedes,71.049,70.552,70.244,2.0,3.0,4,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,71.006,70.678,70.416,1.0,5.0,5,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,71.37,70.689,70.582,4.0,6.0,6,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,71.493,70.845,70.633,8.0,10.0,7,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,71.518,70.661,70.857,9.0,4.0,8,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,71.718,70.815,70.977,13.0,9.0,9,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,71.327,70.914,,3.0,11.0,10,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Alexander Albon,Williams,,70.768,70.653,,7.0,10,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,71.375,70.948,,5.0,12.0,11,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,71.603,70.955,,11.0,13.0,12,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,71.832,71.215,,14.0,14.0,13,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,71.63,71.295,,12.0,15.0,14,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,71.943,,,15.0,,15,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,71.995,,,16.0,,16,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,72.168,,,17.0,,17,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,73.261,,,18.0,,18,30.14050632911392,0
+2024,Dutch Grand Prix,Permanent,Standard,Logan Sargeant,Williams,,,,,,20,30.14050632911392,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lando Norris,McLaren,79.911,79.727,79.327,1.0,3.0,1,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Oscar Piastri,McLaren,80.076,79.808,79.436,3.0,5.0,2,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,George Russell,Mercedes,80.169,79.877,79.44,5.0,6.0,3,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Charles Leclerc,Ferrari,80.074,80.007,79.461,2.0,7.0,4,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Carlos Sainz,Ferrari,80.149,79.799,79.467,4.0,4.0,5,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lewis Hamilton,Mercedes,80.477,79.641,79.513,7.0,1.0,6,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Max Verstappen,Red Bull Racing,80.226,79.662,80.022,6.0,2.0,7,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Sergio Perez,Red Bull Racing,80.598,80.216,80.062,9.0,8.0,8,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Alexander Albon,Williams,80.542,80.314,80.299,8.0,9.0,9,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Nico Hulkenberg,Haas,80.781,80.411,80.339,13.0,10.0,10,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Fernando Alonso,Aston Martin,80.617,80.421,,10.0,11.0,11,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Daniel Ricciardo,Racing Bulls,80.901,80.479,,15.0,12.0,12,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Kevin Magnussen,Haas,80.856,80.698,,14.0,13.0,13,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Pierre Gasly,Alpine,80.748,80.738,,11.0,14.0,14,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Esteban Ocon,Alpine,80.764,80.766,,12.0,15.0,15,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Yuki Tsunoda,Racing Bulls,80.945,,,16.0,,16,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lance Stroll,Aston Martin,81.013,,,17.0,,17,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Franco Colapinto,Williams,81.061,,,18.0,,18,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Valtteri Bottas,Kick Sauber,81.101,,,19.0,,19,48.73037974683544,0
+2024,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Guanyu Zhou,Kick Sauber,81.445,,,20.0,,20,48.73037974683544,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Charles Leclerc,Ferrari,102.775,102.056,101.365,1.0,2.0,1,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Oscar Piastri,McLaren,103.033,102.598,101.686,3.0,8.0,2,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Carlos Sainz,Ferrari,103.357,102.503,101.805,11.0,7.0,3,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Sergio Perez,Red Bull Racing,103.213,102.263,101.813,9.0,3.0,4,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,George Russell,Mercedes,103.139,102.329,101.874,8.0,4.0,5,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Max Verstappen,Red Bull Racing,103.097,102.042,102.023,5.0,1.0,6,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lewis Hamilton,Mercedes,103.089,102.765,102.289,4.0,9.0,7,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Fernando Alonso,Aston Martin,103.472,102.426,102.369,14.0,5.0,8,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Franco Colapinto,Williams,103.138,102.473,102.53,7.0,6.0,9,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Alexander Albon,Williams,102.899,102.84,102.859,2.0,10.0,10,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Oliver Bearman,Haas,103.471,102.968,,13.0,11.0,11,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Yuki Tsunoda,Racing Bulls,103.337,103.035,,10.0,12.0,12,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Nico Hulkenberg,Haas,103.101,103.191,,6.0,14.0,13,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lance Stroll,Aston Martin,103.37,103.404,,12.0,15.0,14,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Daniel Ricciardo,Racing Bulls,103.547,,,15.0,,15,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Pierre Gasly,Alpine,,103.179,,,13.0,15,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lando Norris,McLaren,103.609,,,16.0,,16,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Valtteri Bottas,Kick Sauber,103.618,,,17.0,,17,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Guanyu Zhou,Kick Sauber,104.246,,,18.0,,18,36.74871794871795,0
+2024,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Esteban Ocon,Alpine,104.504,,,19.0,,19,36.74871794871795,0
+2024,Singapore Grand Prix,Permanent,Standard,Lando Norris,McLaren,90.002,90.007,89.525,1.0,5.0,1,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,90.157,89.68,89.728,2.0,2.0,2,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,90.393,89.929,89.841,4.0,4.0,3,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,George Russell,Mercedes,90.811,90.153,89.867,13.0,8.0,4,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,90.258,89.64,89.953,3.0,1.0,5,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,90.724,90.15,90.115,11.0,7.0,6,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,90.684,90.45,90.214,8.0,10.0,7,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,90.716,90.289,90.354,10.0,9.0,8,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,90.786,89.747,,12.0,3.0,9,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,90.67,90.108,,6.0,6.0,10,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Alexander Albon,Williams,90.679,90.474,,7.0,11.0,11,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Franco Colapinto,Williams,90.704,90.481,,9.0,12.0,12,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,90.624,90.579,,5.0,13.0,13,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,90.829,90.653,,14.0,14.0,14,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,90.958,90.769,,15.0,15.0,15,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Daniel Ricciardo,Racing Bulls,91.085,,,16.0,,16,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,91.094,,,17.0,,17,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,91.312,,,18.0,,18,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,91.572,,,19.0,,19,31.96344086021505,0
+2024,Singapore Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,92.054,,,20.0,,20,31.96344086021505,0
+2024,United States Grand Prix,Permanent,Standard,Lando Norris,McLaren,93.616,92.851,92.33,10.0,3.0,1,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,93.046,92.584,92.361,1.0,1.0,2,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,93.556,92.836,92.652,6.0,2.0,3,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,93.241,92.962,92.74,2.0,4.0,4,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,93.864,93.057,92.95,12.0,6.0,5,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,George Russell,Mercedes,93.536,93.142,92.974,4.0,7.0,6,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,93.55,93.162,93.018,5.0,8.0,7,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,93.973,93.429,93.309,13.0,9.0,8,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,93.564,93.474,93.481,7.0,10.0,9,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,93.611,93.02,,9.0,5.0,10,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,93.795,93.506,,11.0,11.0,11,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,93.601,93.544,,8.0,12.0,12,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,93.986,93.597,,14.0,13.0,13,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,94.033,93.759,,15.0,14.0,14,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,93.339,,,3.0,,15,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Alexander Albon,Williams,94.051,,,16.0,,16,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Franco Colapinto,Williams,94.062,,,17.0,,17,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,94.152,,,18.0,,18,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,94.154,,,19.0,,19,38.217333333333336,0
+2024,United States Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,94.228,,,20.0,,20,38.217333333333336,0
+2024,Mexico City Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,76.778,76.515,75.946,2.0,3.0,1,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,76.803,76.514,76.171,3.0,2.0,2,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Lando Norris,McLaren,76.505,76.301,76.26,1.0,1.0,3,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,76.972,76.641,76.265,4.0,4.0,4,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,George Russell,Mercedes,77.194,76.937,76.356,10.0,5.0,5,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,77.306,76.973,76.651,11.0,6.0,6,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,77.125,77.003,76.886,5.0,9.0,7,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,77.149,77.048,76.892,6.0,10.0,8,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Alexander Albon,Williams,77.189,76.988,77.065,9.0,7.0,9,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,77.186,76.995,77.365,8.0,8.0,10,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,77.182,77.129,,7.0,11.0,11,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,77.38,77.162,,13.0,12.0,12,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,77.307,77.168,,12.0,13.0,13,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,77.407,77.294,,15.0,14.0,14,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,77.393,77.817,,14.0,15.0,15,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Franco Colapinto,Williams,77.558,,,16.0,,16,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,77.597,,,17.0,,17,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,77.611,,,18.0,,18,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,77.617,,,19.0,,19,39.41234567901235,0
+2024,Mexico City Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,78.072,,,20.0,,20,39.41234567901235,0
+2024,São Paulo Grand Prix,Permanent,Standard,Lando Norris,McLaren,90.944,84.844,83.405,15.0,3.0,1,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,George Russell,Mercedes,89.121,86.307,83.578,3.0,7.0,2,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,89.172,86.464,84.111,5.0,9.0,3,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,89.171,86.206,84.475,4.0,6.0,4,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,90.758,85.654,84.484,14.0,4.0,5,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,89.839,86.097,84.525,7.0,5.0,6,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Alexander Albon,Williams,89.072,84.657,84.657,2.0,1.0,7,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,90.114,84.686,84.686,9.0,2.0,8,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,90.207,88.998,88.998,10.0,13.0,9,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,90.58,86.334,,12.0,8.0,10,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,90.633,86.472,,13.0,10.0,11,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,88.522,87.771,,1.0,11.0,12,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,90.035,88.158,,8.0,12.0,13,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,90.303,89.406,,11.0,14.0,14,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,89.42,89.614,,6.0,15.0,15,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,91.15,,,16.0,,16,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Oliver Bearman,Haas,91.229,,,17.0,,17,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Franco Colapinto,Williams,91.27,,,18.0,,18,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,91.623,,,19.0,,19,23.379439252336446,1
+2024,São Paulo Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,92.263,,,20.0,,20,23.379439252336446,1
+2024,Las Vegas Grand Prix,Permanent,Standard,George Russell,Mercedes,93.186,92.779,92.312,1.0,3.0,1,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,93.484,92.711,92.41,6.0,2.0,2,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,93.691,92.879,92.664,8.0,4.0,3,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,93.446,93.016,92.783,4.0,5.0,4,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,93.299,93.085,92.797,3.0,7.0,5,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Lando Norris,McLaren,93.592,93.099,93.008,7.0,9.0,6,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,93.789,93.089,93.029,10.0,8.0,7,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,93.45,93.024,93.033,5.0,6.0,8,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,93.92,93.114,93.062,11.0,10.0,9,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,93.225,92.567,108.106,2.0,1.0,10,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,93.968,93.221,,12.0,11.0,11,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,93.991,93.297,,13.0,12.0,12,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,94.079,93.566,,14.0,13.0,13,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Franco Colapinto,Williams,93.746,93.749,,9.0,14.0,14,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,94.087,94.257,,15.0,15.0,15,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,94.155,,,16.0,,16,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,94.258,,,17.0,,17,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Alexander Albon,Williams,94.425,,,18.0,,18,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,94.43,,,19.0,,19,14.06530612244898,0
+2024,Las Vegas Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,94.484,,,20.0,,20,14.06530612244898,0
+2024,Qatar Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,81.579,80.687,80.52,5.0,1.0,1,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,George Russell,Mercedes,81.241,81.069,80.575,1.0,4.0,2,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Lando Norris,McLaren,81.578,80.983,80.772,4.0,2.0,3,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,81.821,81.121,80.829,9.0,6.0,4,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,81.278,81.0,80.852,2.0,3.0,5,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,81.637,81.095,81.011,7.0,5.0,6,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,81.447,81.199,81.041,3.0,7.0,7,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,81.608,81.208,81.251,6.0,8.0,8,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,81.675,81.425,81.425,8.0,10.0,9,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,81.891,81.387,81.5,11.0,9.0,10,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,81.843,81.437,,10.0,11.0,11,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,82.103,81.501,,14.0,12.0,12,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,81.927,81.731,,12.0,13.0,13,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,82.364,81.771,,15.0,14.0,14,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,82.011,81.911,,13.0,15.0,15,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Alexander Albon,Williams,82.39,,,16.0,,16,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,82.411,,,17.0,,17,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,82.442,,,18.0,,18,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Franco Colapinto,Williams,82.594,,,19.0,,19,21.72051282051282,0
+2024,Qatar Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,82.714,,,20.0,,20,21.72051282051282,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Lando Norris,McLaren,83.682,83.098,82.595,10.0,5.0,1,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,83.64,83.199,82.804,8.0,6.0,2,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,83.487,82.985,82.824,3.0,1.0,3,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Nico Hulkenberg,Haas,83.722,83.04,82.886,11.0,3.0,4,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,83.516,82.998,82.945,4.0,2.0,5,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,83.548,83.086,82.984,5.0,4.0,6,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,George Russell,Mercedes,83.678,83.283,83.132,9.0,8.0,7,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,83.794,83.268,83.196,15.0,7.0,8,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Valtteri Bottas,Kick Sauber,83.481,83.341,83.204,2.0,9.0,9,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,83.559,83.379,83.264,6.0,10.0,10,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,83.735,83.419,,14.0,11.0,11,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,83.733,83.472,,13.0,12.0,12,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,83.729,83.784,,12.0,13.0,13,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,83.302,83.833,,1.0,14.0,14,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,83.632,83.877,,7.0,15.0,15,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Alexander Albon,Williams,83.821,,,16.0,,16,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Guanyu Zhou,Kick Sauber,83.88,,,17.0,,17,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,83.887,,,18.0,,18,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Franco Colapinto,Williams,83.912,,,19.0,,19,29.672839506172846,0
+2024,Abu Dhabi Grand Prix,Permanent,Standard,Jack Doohan,Alpine,84.105,,,20.0,,20,29.672839506172846,0

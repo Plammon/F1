@@ -1,0 +1,441 @@
+Year,GP,Track_Type,Track_DNA,Driver,Team,Q1_Time,Q2_Time,Q3_Time,Q1_Pos,Q2_Pos,Final_Pos,TrackTemp,Rain
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Charles Leclerc,Ferrari,91.471,90.932,90.558,1.0,3.0,1,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Max Verstappen,Red Bull Racing,91.785,90.757,90.681,3.0,1.0,2,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Carlos Sainz,Ferrari,91.567,90.787,90.687,2.0,2.0,3,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Sergio Perez,Red Bull Racing,92.311,91.008,90.921,11.0,4.0,4,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Lewis Hamilton,Mercedes,92.285,91.048,91.238,10.0,5.0,5,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Valtteri Bottas,Audi (Sauber),91.919,91.717,91.56,4.0,10.0,6,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Kevin Magnussen,Haas,91.955,91.461,91.808,5.0,7.0,7,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Fernando Alonso,Alpine,92.346,91.621,92.195,12.0,8.0,8,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,George Russell,Mercedes,92.269,91.252,92.216,9.0,6.0,9,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Pierre Gasly,Racing Bulls,92.096,91.635,92.338,7.0,9.0,10,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Esteban Ocon,Alpine,92.041,91.782,,6.0,11.0,11,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Mick Schumacher,Haas,92.38,91.998,,13.0,12.0,12,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Lando Norris,McLaren,92.239,92.008,,8.0,13.0,13,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Alexander Albon,Williams,92.726,92.664,,15.0,14.0,14,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Guanyu Zhou,Audi (Sauber),92.493,93.543,,14.0,15.0,15,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Yuki Tsunoda,Racing Bulls,92.75,,,16.0,,16,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Nico Hulkenberg,Aston Martin,92.777,,,17.0,,17,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Daniel Ricciardo,McLaren,92.945,,,18.0,,18,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Lance Stroll,Aston Martin,93.032,,,19.0,,19,25.403846153846157,0
+2022,Bahrain Grand Prix,Permanent,Traction & Braking,Nicholas Latifi,Williams,93.634,,,20.0,,20,25.403846153846157,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Sergio Perez,Red Bull Racing,89.705,88.924,88.2,6.0,3.0,1,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Charles Leclerc,Ferrari,89.039,88.78,88.225,3.0,2.0,2,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Carlos Sainz,Ferrari,88.855,88.686,88.402,1.0,1.0,3,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Max Verstappen,Red Bull Racing,88.928,88.945,88.461,2.0,4.0,4,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Esteban Ocon,Alpine,90.093,89.584,89.068,13.0,9.0,5,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,George Russell,Mercedes,89.68,89.618,89.104,4.0,10.0,6,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Fernando Alonso,Alpine,89.978,89.295,89.147,10.0,5.0,7,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Valtteri Bottas,Audi (Sauber),89.683,89.404,89.183,5.0,6.0,8,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Pierre Gasly,Racing Bulls,89.891,89.418,89.254,8.0,7.0,9,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Kevin Magnussen,Haas,89.831,89.546,89.588,7.0,8.0,10,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lando Norris,McLaren,89.957,89.651,,9.0,11.0,11,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Daniel Ricciardo,McLaren,90.009,89.773,,12.0,12.0,12,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Guanyu Zhou,Audi (Sauber),89.978,89.819,,10.0,13.0,13,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Mick Schumacher,Haas,90.167,89.92,,14.0,14.0,14,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lance Stroll,Aston Martin,90.256,91.009,,15.0,15.0,15,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lewis Hamilton,Mercedes,90.343,,,16.0,,16,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Alexander Albon,Williams,90.492,,,17.0,,17,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Nico Hulkenberg,Aston Martin,90.543,,,18.0,,18,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Nicholas Latifi,Williams,91.817,,,19.0,,19,25.364335664335666,0
+2022,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Yuki Tsunoda,Racing Bulls,,,,,,20,25.364335664335666,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Charles Leclerc,Ferrari,78.881,78.606,77.868,3.0,3.0,1,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Max Verstappen,Red Bull Racing,78.58,78.611,78.154,1.0,4.0,2,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Sergio Perez,Red Bull Racing,78.834,78.34,78.24,2.0,1.0,3,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lando Norris,McLaren,79.28,79.066,78.703,7.0,6.0,4,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lewis Hamilton,Mercedes,79.401,79.106,78.825,8.0,8.0,5,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,George Russell,Mercedes,79.405,79.076,78.933,9.0,7.0,6,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Daniel Ricciardo,McLaren,79.665,79.13,79.032,12.0,9.0,7,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Esteban Ocon,Alpine,79.605,79.136,79.061,11.0,10.0,8,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Carlos Sainz,Ferrari,78.983,78.469,79.408,4.0,2.0,9,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Fernando Alonso,Alpine,79.192,78.815,,5.0,5.0,10,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Pierre Gasly,Racing Bulls,79.58,79.226,,10.0,11.0,11,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Valtteri Bottas,Audi (Sauber),79.251,79.41,,6.0,12.0,12,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Yuki Tsunoda,Racing Bulls,79.742,79.424,,13.0,13.0,13,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Guanyu Zhou,Audi (Sauber),79.91,80.155,,14.0,14.0,14,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Mick Schumacher,Haas,80.104,80.465,,15.0,15.0,15,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Alexander Albon,Williams,80.135,,,16.0,,16,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Kevin Magnussen,Haas,80.254,,,17.0,,17,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Sebastian Vettel,Aston Martin,81.149,,,18.0,,18,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Nicholas Latifi,Williams,81.372,,,19.0,,19,29.152252252252254,0
+2022,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lance Stroll,Aston Martin,,,,,,20,29.152252252252254,0
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,79.295,78.793,87.999,2.0,1.0,1,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,78.796,79.584,88.778,1.0,5.0,2,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Lando Norris,McLaren,80.168,79.294,89.131,8.0,3.0,3,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,80.147,79.902,89.164,7.0,7.0,4,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,80.198,79.595,89.202,9.0,6.0,5,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,79.98,80.031,89.742,6.0,9.0,6,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,79.773,79.296,89.808,5.0,4.0,7,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),80.419,80.192,90.439,13.0,10.0,8,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,80.364,79.957,91.062,11.0,8.0,9,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,79.305,78.99,,3.0,2.0,10,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,George Russell,Mercedes,80.383,80.757,,12.0,11.0,11,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Mick Schumacher,Haas,80.422,80.916,,14.0,12.0,12,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,80.47,81.138,,15.0,13.0,13,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),79.73,81.434,,4.0,14.0,14,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,80.342,88.119,,10.0,15.0,15,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,80.474,,,16.0,,16,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,80.732,,,17.0,,17,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,81.971,,,18.0,,18,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,82.338,,,19.0,,19,14.312389380530972,1
+2022,Emilia Romagna Grand Prix,Permanent,Standard,Alexander Albon,Williams,,,,,,20,14.312389380530972,1
+2022,Miami Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,89.474,89.13,88.796,1.0,1.0,1,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,90.079,89.729,88.986,4.0,5.0,2,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,89.836,89.202,88.991,2.0,2.0,3,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,90.055,89.673,89.036,3.0,4.0,4,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),90.845,89.751,89.475,15.0,6.0,5,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,90.388,89.797,89.625,5.0,7.0,6,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,90.779,90.128,89.69,14.0,10.0,7,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Lando Norris,McLaren,90.761,89.634,89.75,13.0,3.0,8,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,90.485,90.031,89.932,8.0,9.0,9,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,90.441,89.996,90.676,7.0,8.0,10,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,90.407,90.16,,6.0,11.0,11,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,George Russell,Mercedes,90.49,90.173,,9.0,12.0,12,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,90.677,90.214,,12.0,13.0,13,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,90.583,90.31,,10.0,14.0,14,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Mick Schumacher,Haas,90.645,90.423,,11.0,15.0,15,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,90.975,,,16.0,,16,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),91.02,,,17.0,,17,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Alexander Albon,Williams,91.266,,,18.0,,18,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,91.325,,,19.0,,19,51.20875000000001,0
+2022,Miami Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,,,,,,20,51.20875000000001,0
+2022,Spanish Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,79.861,79.969,78.75,1.0,7.0,1,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,80.091,79.219,79.073,3.0,1.0,2,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,79.892,79.453,79.166,2.0,2.0,3,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,George Russell,Mercedes,80.218,79.47,79.393,4.0,3.0,4,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,80.447,79.83,79.42,8.0,6.0,5,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,80.252,79.794,79.512,6.0,4.0,6,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),80.355,80.053,79.608,7.0,8.0,7,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,80.227,79.81,79.682,5.0,5.0,8,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,80.549,80.287,80.297,10.0,9.0,9,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Mick Schumacher,Haas,80.683,80.436,80.368,11.0,10.0,10,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Lando Norris,McLaren,80.838,80.471,,14.0,11.0,11,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,80.88,80.638,,15.0,12.0,12,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,80.707,80.639,,12.0,13.0,13,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,80.719,80.861,,13.0,14.0,14,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),80.476,81.094,,9.0,15.0,15,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,80.954,,,16.0,,16,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,81.043,,,17.0,,17,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,81.418,,,18.0,,18,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Alexander Albon,Williams,81.645,,,19.0,,19,47.19871794871794,0
+2022,Spanish Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,81.915,,,20.0,,20,47.19871794871794,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Charles Leclerc,Ferrari,72.569,71.864,71.376,1.0,1.0,1,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Carlos Sainz,Ferrari,72.616,72.074,71.601,2.0,3.0,2,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Sergio Perez,Red Bull Racing,73.004,71.954,71.629,7.0,2.0,3,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Max Verstappen,Red Bull Racing,72.993,72.117,71.666,6.0,4.0,4,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lando Norris,McLaren,72.927,72.266,71.849,5.0,5.0,5,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,George Russell,Mercedes,72.787,72.617,72.112,3.0,9.0,6,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Fernando Alonso,Alpine,73.394,72.688,72.247,12.0,10.0,7,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lewis Hamilton,Mercedes,73.444,72.595,72.56,13.0,7.0,8,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Sebastian Vettel,Aston Martin,73.313,72.613,72.732,10.0,8.0,9,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Esteban Ocon,Alpine,72.848,72.528,73.047,4.0,6.0,10,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Yuki Tsunoda,Racing Bulls,73.11,72.797,,9.0,11.0,11,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Valtteri Bottas,Audi (Sauber),73.541,72.909,,15.0,12.0,12,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Kevin Magnussen,Haas,73.069,72.921,,8.0,13.0,13,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Daniel Ricciardo,McLaren,73.338,72.964,,11.0,14.0,14,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Mick Schumacher,Haas,73.469,73.081,,14.0,15.0,15,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Alexander Albon,Williams,73.611,,,16.0,,16,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Pierre Gasly,Racing Bulls,73.66,,,17.0,,17,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lance Stroll,Aston Martin,73.678,,,18.0,,18,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Nicholas Latifi,Williams,74.403,,,19.0,,19,48.44444444444445,0
+2022,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Guanyu Zhou,Audi (Sauber),75.606,,,20.0,,20,48.44444444444445,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Charles Leclerc,Ferrari,102.865,102.046,101.359,3.0,2.0,1,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Sergio Perez,Red Bull Racing,102.733,101.955,101.641,2.0,1.0,2,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Max Verstappen,Red Bull Racing,102.722,102.227,101.706,1.0,4.0,3,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Carlos Sainz,Ferrari,102.957,102.088,101.814,4.0,3.0,4,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,George Russell,Mercedes,103.754,103.281,102.712,8.0,8.0,5,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Pierre Gasly,Racing Bulls,103.268,103.129,102.845,5.0,5.0,6,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lewis Hamilton,Mercedes,103.939,103.182,102.924,11.0,6.0,7,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Yuki Tsunoda,Racing Bulls,103.595,103.376,103.056,7.0,10.0,8,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Sebastian Vettel,Aston Martin,103.279,103.268,103.091,6.0,7.0,9,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Fernando Alonso,Alpine,104.083,103.36,103.173,12.0,9.0,10,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lando Norris,McLaren,104.237,103.398,,13.0,11.0,11,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Daniel Ricciardo,McLaren,104.437,103.574,,14.0,12.0,12,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Esteban Ocon,Alpine,103.903,103.585,,10.0,13.0,13,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Guanyu Zhou,Audi (Sauber),103.777,103.79,,9.0,14.0,14,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Valtteri Bottas,Audi (Sauber),104.478,104.444,,15.0,15.0,15,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Kevin Magnussen,Haas,104.643,,,16.0,,16,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Alexander Albon,Williams,104.719,,,17.0,,17,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Nicholas Latifi,Williams,105.367,,,18.0,,18,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lance Stroll,Aston Martin,105.371,,,19.0,,19,35.17522123893806,0
+2022,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Mick Schumacher,Haas,105.775,,,20.0,,20,35.17522123893806,0
+2022,Canadian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,92.219,83.746,81.299,1.0,1.0,1,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,92.277,84.848,81.944,2.0,2.0,2,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,92.781,85.197,82.096,3.0,4.0,3,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,93.841,85.543,82.891,12.0,5.0,4,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,92.957,86.254,82.96,4.0,9.0,5,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Mick Schumacher,Haas,93.707,85.684,83.356,11.0,6.0,6,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,93.012,86.135,83.529,6.0,8.0,7,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,George Russell,Mercedes,93.16,84.95,83.557,7.0,3.0,8,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,93.636,86.375,83.749,8.0,10.0,9,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),93.692,86.116,84.03,10.0,7.0,10,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),93.689,86.788,,9.0,11.0,11,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Alexander Albon,Williams,94.047,86.858,,14.0,12.0,12,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,93.929,93.127,,13.0,13.0,13,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Lando Norris,McLaren,94.066,,,15.0,,14,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,93.008,,,5.0,,15,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,94.492,,,16.0,,16,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,94.512,,,17.0,,17,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,95.532,,,18.0,,18,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,95.66,,,19.0,,19,18.123333333333335,1
+2022,Canadian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,96.575,,,20.0,,20,18.123333333333335,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Carlos Sainz,Ferrari,100.19,101.602,100.983,4.0,4.0,1,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Max Verstappen,Red Bull Racing,99.129,100.655,101.055,1.0,1.0,2,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Charles Leclerc,Ferrari,99.846,101.247,101.298,2.0,3.0,3,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Sergio Perez,Red Bull Racing,100.521,102.513,101.616,6.0,8.0,4,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Lewis Hamilton,Mercedes,100.428,101.062,101.995,5.0,2.0,5,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Lando Norris,McLaren,101.515,101.821,102.084,9.0,6.0,6,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Fernando Alonso,Alpine,101.598,102.209,102.116,10.0,7.0,7,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,George Russell,Mercedes,100.028,101.725,102.161,3.0,5.0,8,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Guanyu Zhou,Audi (Sauber),100.791,102.64,102.719,7.0,9.0,9,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Nicholas Latifi,Williams,101.998,103.273,123.095,15.0,10.0,10,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Pierre Gasly,Racing Bulls,101.68,103.702,,11.0,11.0,11,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Valtteri Bottas,Audi (Sauber),101.396,104.232,,8.0,12.0,12,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Yuki Tsunoda,Racing Bulls,101.893,104.311,,13.0,13.0,13,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Daniel Ricciardo,McLaren,101.933,104.355,,14.0,14.0,14,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Esteban Ocon,Alpine,101.73,105.19,,12.0,15.0,15,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Alexander Albon,Williams,102.078,,,16.0,,16,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Kevin Magnussen,Haas,102.159,,,17.0,,17,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Sebastian Vettel,Aston Martin,102.666,,,18.0,,18,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Mick Schumacher,Haas,102.708,,,19.0,,19,20.853164556962028,1
+2022,British Grand Prix,Permanent,Ultra-High-Speed,Lance Stroll,Aston Martin,103.43,,,20.0,,20,20.853164556962028,1
+2022,Austrian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,65.852,65.374,64.984,3.0,2.0,1,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,65.419,65.287,65.013,1.0,1.0,2,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,65.66,65.576,65.066,2.0,4.0,3,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,George Russell,Mercedes,66.235,65.697,65.431,7.0,5.0,4,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,66.468,65.993,65.726,13.0,7.0,5,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,66.366,65.894,65.879,9.0,6.0,6,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Mick Schumacher,Haas,66.405,66.151,66.011,10.0,9.0,7,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,66.016,66.082,66.103,4.0,8.0,8,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,66.079,65.475,73.151,5.0,3.0,9,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,66.589,66.16,,15.0,10.0,10,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Alexander Albon,Williams,66.516,66.23,,14.0,11.0,11,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),66.442,66.319,,11.0,12.0,12,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,66.143,66.458,,6.0,13.0,13,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,66.463,66.851,,12.0,14.0,14,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Lando Norris,McLaren,66.33,85.847,,8.0,15.0,15,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,66.613,,,16.0,,16,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,66.847,,,17.0,,17,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),66.901,,,18.0,,18,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,67.003,,,19.0,,19,35.94949494949495,0
+2022,Austrian Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,67.083,,,20.0,,20,35.94949494949495,0
+2022,French Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,91.727,91.216,90.872,1.0,2.0,1,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,91.891,91.99,91.176,2.0,3.0,2,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,92.354,92.12,91.335,4.0,4.0,3,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,93.041,92.274,91.765,9.0,5.0,4,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Lando Norris,McLaren,92.672,92.777,92.032,5.0,9.0,5,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,George Russell,Mercedes,93.109,92.633,92.131,10.0,7.0,6,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,92.819,92.631,92.552,7.0,6.0,7,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,93.394,92.836,92.78,13.0,10.0,8,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,92.297,91.081,,3.0,1.0,9,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,92.756,92.649,,6.0,8.0,10,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,93.404,92.922,,14.0,11.0,11,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,93.346,93.048,,12.0,12.0,12,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),93.034,93.052,,8.0,13.0,13,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,93.285,93.276,,11.0,14.0,14,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Alexander Albon,Williams,93.423,93.307,,15.0,15.0,15,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,93.439,,,16.0,,16,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,93.439,,,16.0,,17,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),93.674,,,18.0,,18,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Mick Schumacher,Haas,93.701,,,19.0,,19,54.812987012987016,0
+2022,French Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,93.794,,,20.0,,20,54.812987012987016,0
+2022,Hungarian Grand Prix,Permanent,Standard,George Russell,Mercedes,78.407,78.154,77.377,2.0,7.0,1,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,78.434,77.946,77.421,3.0,4.0,2,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,78.806,77.768,77.567,8.0,2.0,3,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Lando Norris,McLaren,78.653,78.121,77.769,5.0,6.0,4,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,78.866,78.216,78.018,9.0,9.0,5,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,78.716,77.904,78.078,6.0,3.0,6,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,78.374,78.035,78.142,1.0,5.0,7,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),78.935,78.445,78.157,10.0,10.0,8,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,78.775,78.198,78.379,7.0,8.0,9,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,78.509,77.703,78.823,4.0,1.0,10,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,79.118,78.516,,13.0,11.0,11,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),78.973,78.573,,11.0,12.0,12,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,78.993,78.825,,12.0,13.0,13,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,79.205,79.137,,15.0,14.0,14,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Mick Schumacher,Haas,79.164,79.202,,14.0,15.0,15,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,79.24,,,16.0,,16,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Alexander Albon,Williams,79.256,,,17.0,,17,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,79.273,,,18.0,,18,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,79.527,,,19.0,,19,29.805128205128206,0
+2022,Hungarian Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,79.57,,,20.0,,20,29.805128205128206,0
+2022,Belgian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,104.581,104.723,103.665,1.0,2.0,1,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,105.05,105.418,104.297,2.0,4.0,2,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,105.377,104.794,104.462,3.0,3.0,3,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,105.572,104.551,104.553,4.0,1.0,4,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,106.039,105.475,105.18,9.0,7.0,5,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,106.075,105.552,105.368,10.0,8.0,6,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,105.736,105.42,105.503,7.0,5.0,7,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,George Russell,Mercedes,105.65,105.461,105.776,5.0,6.0,8,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Alexander Albon,Williams,105.672,105.675,105.837,6.0,10.0,9,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Lando Norris,McLaren,105.745,105.603,106.178,8.0,9.0,10,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,106.212,105.767,,13.0,11.0,11,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,106.183,105.827,,12.0,12.0,12,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),106.178,106.085,,11.0,13.0,13,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,106.256,106.611,,14.0,14.0,14,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Mick Schumacher,Haas,106.342,107.718,,15.0,15.0,15,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,106.344,,,16.0,,16,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,106.401,,,17.0,,17,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,106.557,,,18.0,,18,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,106.692,,,19.0,,19,20.7,0
+2022,Belgian Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),107.866,,,20.0,,20,20.7,0
+2022,Dutch Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,71.317,70.927,70.342,1.0,3.0,1,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,71.443,70.988,70.363,4.0,4.0,2,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,71.767,70.814,70.434,14.0,1.0,3,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,71.331,71.075,70.648,2.0,5.0,4,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,71.641,71.314,71.077,8.0,7.0,5,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,George Russell,Mercedes,71.561,70.824,71.147,6.0,2.0,6,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Lando Norris,McLaren,71.556,71.116,71.174,5.0,6.0,7,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Mick Schumacher,Haas,71.741,71.42,71.442,12.0,9.0,8,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,71.427,71.428,72.556,3.0,10.0,9,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,71.568,71.416,,7.0,8.0,10,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,71.705,71.512,,11.0,11.0,11,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,71.748,71.605,,13.0,12.0,12,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,71.667,71.613,,9.0,13.0,13,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),71.826,71.704,,15.0,14.0,14,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Alexander Albon,Williams,71.695,71.802,,10.0,15.0,15,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),71.961,,,16.0,,16,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,72.081,,,17.0,,17,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,72.319,,,18.0,,18,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,72.391,,,19.0,,19,39.05952380952381,0
+2022,Dutch Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,73.353,,,20.0,,20,39.05952380952381,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Charles Leclerc,Ferrari,81.28,81.208,80.161,2.0,2.0,1,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Max Verstappen,Red Bull Racing,80.922,81.265,80.306,1.0,3.0,2,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Carlos Sainz,Ferrari,81.348,80.878,80.429,3.0,1.0,3,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Sergio Perez,Red Bull Racing,81.495,81.358,81.206,4.0,4.0,4,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lewis Hamilton,Mercedes,82.048,81.708,81.524,9.0,5.0,5,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,George Russell,Mercedes,81.785,81.747,81.542,5.0,6.0,6,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lando Norris,McLaren,82.13,81.831,81.584,11.0,7.0,7,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Daniel Ricciardo,McLaren,82.139,81.855,81.925,12.0,8.0,8,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Pierre Gasly,Racing Bulls,82.01,82.062,82.648,7.0,10.0,9,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Fernando Alonso,Alpine,82.089,81.861,,10.0,9.0,10,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Esteban Ocon,Alpine,82.166,82.13,,13.0,11.0,11,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Valtteri Bottas,Audi (Sauber),82.254,82.235,,14.0,12.0,12,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Nyck De Vries,Williams,82.567,82.471,,15.0,13.0,13,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Guanyu Zhou,Audi (Sauber),82.003,82.577,,6.0,14.0,14,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Yuki Tsunoda,Racing Bulls,82.02,,,8.0,,15,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Nicholas Latifi,Williams,82.587,,,16.0,,16,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Sebastian Vettel,Aston Martin,82.636,,,17.0,,17,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lance Stroll,Aston Martin,82.748,,,18.0,,18,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Kevin Magnussen,Haas,82.908,,,19.0,,19,40.264102564102565,0
+2022,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Mick Schumacher,Haas,83.005,,,20.0,,20,40.264102564102565,0
+2022,Singapore Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,114.129,112.343,109.412,3.0,1.0,1,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,114.404,112.818,109.434,4.0,4.0,2,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,113.161,112.691,109.466,2.0,2.0,3,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,114.559,113.219,109.583,5.0,6.0,4,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,115.36,113.127,109.966,9.0,5.0,5,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Lando Norris,McLaren,115.914,113.942,110.584,15.0,9.0,6,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,115.606,113.546,111.211,12.0,7.0,7,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,113.057,112.723,111.395,1.0,3.0,8,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,115.103,114.006,111.573,7.0,10.0,9,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,115.314,113.848,111.983,8.0,8.0,10,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,George Russell,Mercedes,114.633,114.012,,6.0,11.0,11,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,115.629,114.211,,13.0,12.0,12,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Mick Schumacher,Haas,115.736,114.37,,14.0,13.0,13,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,115.602,114.38,,11.0,14.0,14,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),115.375,115.518,,10.0,15.0,15,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),116.083,,,16.0,,16,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,116.226,,,17.0,,17,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,116.337,,,18.0,,18,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Alexander Albon,Williams,116.985,,,19.0,,19,27.783749999999998,0
+2022,Singapore Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,117.532,,,20.0,,20,27.783749999999998,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Max Verstappen,Red Bull Racing,90.224,90.346,89.304,1.0,3.0,1,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Charles Leclerc,Ferrari,90.402,90.486,89.314,3.0,9.0,2,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Carlos Sainz,Ferrari,90.336,90.444,89.361,2.0,6.0,3,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Sergio Perez,Red Bull Racing,90.622,89.925,89.709,5.0,1.0,4,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Esteban Ocon,Alpine,90.696,90.357,90.165,6.0,4.0,5,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lewis Hamilton,Mercedes,90.906,90.443,90.261,11.0,5.0,6,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Fernando Alonso,Alpine,90.603,90.343,90.322,4.0,2.0,7,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,George Russell,Mercedes,90.865,90.465,90.389,7.0,7.0,8,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Sebastian Vettel,Aston Martin,91.256,90.656,90.554,15.0,10.0,9,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lando Norris,McLaren,90.881,90.473,91.003,9.0,8.0,10,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Daniel Ricciardo,McLaren,90.88,90.659,,8.0,11.0,11,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Valtteri Bottas,Audi (Sauber),91.226,90.709,,14.0,12.0,12,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Yuki Tsunoda,Racing Bulls,91.13,90.808,,12.0,13.0,13,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Guanyu Zhou,Audi (Sauber),90.894,90.953,,10.0,14.0,14,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Mick Schumacher,Haas,91.152,91.439,,13.0,15.0,15,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Alexander Albon,Williams,91.311,,,16.0,,16,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Pierre Gasly,Racing Bulls,91.322,,,17.0,,17,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Kevin Magnussen,Haas,91.352,,,18.0,,18,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lance Stroll,Aston Martin,91.419,,,19.0,,19,26.497402597402598,0
+2022,Japanese Grand Prix,Permanent,High-Speed-Flowing,Nicholas Latifi,Williams,91.511,,,20.0,,20,26.497402597402598,0
+2022,United States Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,95.297,95.59,94.356,1.0,3.0,1,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,95.795,95.246,94.421,2.0,1.0,2,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,95.864,95.294,94.448,3.0,2.0,3,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,96.163,95.864,94.645,5.0,6.0,4,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,96.148,95.732,94.947,4.0,5.0,5,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,George Russell,Mercedes,96.195,95.692,94.988,6.0,4.0,6,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,96.86,96.032,95.598,14.0,8.0,7,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Lando Norris,McLaren,96.465,96.341,95.69,8.0,10.0,8,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,96.446,95.988,95.876,7.0,7.0,9,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),96.746,96.321,96.319,12.0,9.0,10,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Alexander Albon,Williams,96.932,96.368,,15.0,11.0,11,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,96.695,96.398,,11.0,12.0,12,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,96.577,96.74,,9.0,13.0,13,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),96.656,96.97,,10.0,14.0,14,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,96.808,97.147,,13.0,15.0,15,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,96.949,,,16.0,,16,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,97.046,,,17.0,,17,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,97.068,,,18.0,,18,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Mick Schumacher,Haas,97.111,,,19.0,,19,35.86835443037976,0
+2022,United States Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,97.244,,,20.0,,20,35.86835443037976,0
+2022,Mexico City Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,79.222,78.566,77.775,2.0,4.0,1,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,George Russell,Mercedes,79.583,78.565,78.079,6.0,3.0,2,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,79.169,78.552,78.084,1.0,1.0,3,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,79.706,78.615,78.128,7.0,5.0,4,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,79.566,78.56,78.351,5.0,2.0,5,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),79.523,78.762,78.401,4.0,6.0,6,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,79.505,79.109,78.555,3.0,8.0,7,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Lando Norris,McLaren,79.857,79.119,78.721,8.0,9.0,8,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,80.006,79.272,78.939,11.0,10.0,9,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,79.945,79.081,79.01,10.0,7.0,10,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,80.279,79.325,,13.0,11.0,11,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),80.283,79.476,,14.0,12.0,12,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,79.907,79.589,,9.0,13.0,13,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,80.256,79.672,,12.0,14.0,14,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,80.293,79.833,,15.0,15.0,15,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Mick Schumacher,Haas,80.419,,,16.0,,16,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,80.419,,,16.0,,17,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,80.52,,,18.0,,18,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Alexander Albon,Williams,80.859,,,19.0,,19,48.52820512820512,0
+2022,Mexico City Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,81.167,,,20.0,,20,48.52820512820512,0
+2022,São Paulo Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,73.954,71.41,71.674,7.0,7.0,1,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,73.625,70.881,71.877,6.0,1.0,2,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,George Russell,Mercedes,74.427,71.318,72.059,11.0,4.0,3,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Lando Norris,McLaren,73.106,71.377,72.263,1.0,5.0,4,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,74.68,70.89,72.357,14.0,2.0,5,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,74.663,71.587,72.425,13.0,10.0,6,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,73.542,71.394,72.504,3.0,6.0,7,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,73.403,71.539,72.611,2.0,9.0,8,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,73.613,71.456,75.601,5.0,8.0,9,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,74.486,70.95,,12.0,3.0,10,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Alexander Albon,Williams,74.324,71.631,,8.0,11.0,11,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,74.371,71.675,,9.0,12.0,12,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,73.597,71.678,,4.0,13.0,13,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,74.931,72.14,,15.0,14.0,14,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,74.398,72.21,,10.0,15.0,15,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,75.095,,,16.0,,16,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),75.197,,,17.0,,17,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),75.486,,,18.0,,18,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,76.264,,,19.0,,19,26.713580246913576,1
+2022,São Paulo Grand Prix,Permanent,Standard,Mick Schumacher,Haas,76.361,,,20.0,,20,26.713580246913576,1
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,84.754,84.622,83.824,1.0,4.0,1,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Sergio Perez,Red Bull Racing,84.82,84.419,84.052,2.0,1.0,2,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,85.211,84.517,84.092,4.0,2.0,3,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Carlos Sainz,Ferrari,85.09,84.521,84.242,3.0,3.0,4,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Lewis Hamilton,Mercedes,85.594,84.774,84.508,8.0,5.0,5,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,George Russell,Mercedes,85.545,84.94,84.511,7.0,7.0,6,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Lando Norris,McLaren,85.387,84.903,84.769,5.0,6.0,7,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Esteban Ocon,Alpine,85.735,85.007,84.83,12.0,9.0,8,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Sebastian Vettel,Aston Martin,85.523,84.974,84.961,6.0,8.0,9,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Daniel Ricciardo,McLaren,85.766,85.068,85.045,14.0,10.0,10,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Fernando Alonso,Alpine,85.782,85.096,,15.0,11.0,11,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,85.63,85.219,,10.0,12.0,12,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Mick Schumacher,Haas,85.711,85.225,,11.0,13.0,13,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,85.741,85.359,,13.0,14.0,14,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Guanyu Zhou,Audi (Sauber),85.594,85.408,,8.0,15.0,15,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Kevin Magnussen,Haas,85.834,,,16.0,,16,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Pierre Gasly,Racing Bulls,85.859,,,17.0,,17,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Valtteri Bottas,Audi (Sauber),85.892,,,18.0,,18,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Alexander Albon,Williams,86.028,,,19.0,,19,33.94246575342466,0
+2022,Abu Dhabi Grand Prix,Permanent,Standard,Nicholas Latifi,Williams,86.054,,,20.0,,20,33.94246575342466,0

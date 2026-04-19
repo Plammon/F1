@@ -1,0 +1,480 @@
+Year,GP,Track_Type,Track_DNA,Driver,Team,Q1_Time,Q2_Time,Q3_Time,Q1_Pos,Q2_Pos,Final_Pos,TrackTemp,Rain
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lando Norris,McLaren,75.912,75.415,75.096,1.0,1.0,1,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Oscar Piastri,McLaren,76.062,75.468,75.18,5.0,2.0,2,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Max Verstappen,Red Bull Racing,76.018,75.565,75.481,3.0,3.0,3,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,George Russell,Mercedes,75.971,75.798,75.546,2.0,4.0,4,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Yuki Tsunoda,Racing Bulls,76.225,76.009,75.67,7.0,8.0,5,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Alexander Albon,Williams,76.245,76.017,75.737,8.0,9.0,6,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Charles Leclerc,Ferrari,76.029,75.827,75.755,4.0,5.0,7,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lewis Hamilton,Ferrari,76.213,75.919,75.973,6.0,6.0,8,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Pierre Gasly,Alpine,76.328,76.112,75.98,11.0,10.0,9,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Carlos Sainz,Williams,76.36,75.931,76.062,13.0,7.0,10,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Isack Hadjar,Racing Bulls,76.354,76.175,,12.0,11.0,11,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Fernando Alonso,Aston Martin,76.288,76.453,,9.0,12.0,12,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Lance Stroll,Aston Martin,76.369,76.483,,14.0,13.0,13,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Jack Doohan,Alpine,76.315,76.863,,10.0,14.0,14,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Gabriel Bortoleto,Kick Sauber,76.516,77.52,,15.0,15.0,15,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Andrea Kimi Antonelli,Mercedes,76.525,,,16.0,,16,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Nico Hulkenberg,Kick Sauber,76.579,,,17.0,,17,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Liam Lawson,Red Bull Racing,77.094,,,18.0,,18,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Esteban Ocon,Haas,77.147,,,19.0,,19,40.50133333333333,0
+2025,Australian Grand Prix,Street/Hybrid,Medium-Speed,Oliver Bearman,Haas,,,,,,20,40.50133333333333,0
+2025,Chinese Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,91.591,91.2,90.641,8.0,3.0,1,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,George Russell,Mercedes,91.295,91.307,90.723,4.0,6.0,2,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Lando Norris,McLaren,90.983,90.787,90.793,1.0,1.0,3,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,91.424,91.142,90.817,5.0,2.0,4,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,91.69,91.501,90.927,11.0,8.0,5,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,91.579,91.45,91.021,7.0,7.0,6,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,91.162,91.253,91.079,2.0,4.0,7,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Andrea Kimi Antonelli,Mercedes,91.676,91.59,91.103,10.0,9.0,8,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,91.238,91.26,91.638,3.0,5.0,9,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Alexander Albon,Williams,91.503,91.595,91.706,6.0,10.0,10,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Esteban Ocon,Haas,91.876,91.625,,13.0,11.0,11,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,91.921,91.632,,14.0,12.0,12,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,91.719,91.688,,12.0,13.0,13,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,91.923,91.773,,15.0,14.0,14,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Carlos Sainz,Williams,91.628,91.84,,9.0,15.0,15,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,91.992,,,16.0,,16,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Oliver Bearman,Haas,92.018,,,17.0,,17,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Jack Doohan,Alpine,92.092,,,18.0,,18,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,92.141,,,19.0,,19,38.67012987012986,0
+2025,Chinese Grand Prix,Permanent,Standard,Liam Lawson,Red Bull Racing,92.174,,,20.0,,20,38.67012987012986,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Max Verstappen,Red Bull Racing,87.943,87.502,86.983,6.0,3.0,1,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lando Norris,McLaren,87.845,87.146,86.995,3.0,1.0,2,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Oscar Piastri,McLaren,87.687,87.507,87.027,1.0,4.0,3,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Charles Leclerc,Ferrari,87.92,87.555,87.299,4.0,5.0,4,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,George Russell,Mercedes,87.843,87.4,87.318,2.0,2.0,5,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Kimi Antonelli,Mercedes,87.968,87.639,87.555,8.0,7.0,6,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Isack Hadjar,Racing Bulls,88.278,87.775,87.569,13.0,9.0,7,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lewis Hamilton,Ferrari,87.942,87.61,87.61,5.0,6.0,8,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Alexander Albon,Williams,88.218,87.783,87.615,11.0,10.0,9,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Oliver Bearman,Haas,88.228,87.711,87.867,12.0,8.0,10,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Pierre Gasly,Alpine,88.186,87.822,,9.0,11.0,11,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Carlos Sainz,Williams,88.209,87.836,,10.0,12.0,12,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Fernando Alonso,Aston Martin,88.337,87.897,,14.0,13.0,13,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Liam Lawson,Racing Bulls,88.554,87.906,,15.0,14.0,14,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Yuki Tsunoda,Red Bull Racing,87.967,88.0,,7.0,15.0,15,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Nico Hulkenberg,Kick Sauber,88.57,,,16.0,,16,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Gabriel Bortoleto,Kick Sauber,88.622,,,17.0,,17,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Esteban Ocon,Haas,88.696,,,18.0,,18,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Jack Doohan,Alpine,88.877,,,19.0,,19,32.14117647058824,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing,Lance Stroll,Aston Martin,89.271,,,20.0,,20,32.14117647058824,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Oscar Piastri,McLaren,91.392,90.454,89.841,4.0,1.0,1,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,George Russell,Mercedes,91.494,90.664,90.009,9.0,4.0,2,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Charles Leclerc,Ferrari,91.454,90.724,90.175,7.0,6.0,3,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Kimi Antonelli,Mercedes,91.415,90.716,90.213,6.0,5.0,4,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Pierre Gasly,Alpine,91.462,90.643,90.216,8.0,3.0,5,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Lando Norris,McLaren,91.107,90.56,90.267,1.0,2.0,6,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Max Verstappen,Red Bull Racing,91.303,91.019,90.423,3.0,9.0,7,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Carlos Sainz,Williams,91.591,90.844,90.68,10.0,7.0,8,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Lewis Hamilton,Ferrari,91.219,91.009,90.772,2.0,8.0,9,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Yuki Tsunoda,Red Bull Racing,91.751,91.228,91.303,14.0,10.0,10,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Jack Doohan,Alpine,91.414,91.245,,5.0,11.0,11,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Isack Hadjar,Racing Bulls,91.591,91.271,,10.0,12.0,12,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Fernando Alonso,Aston Martin,91.634,91.886,,13.0,13.0,13,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Esteban Ocon,Haas,91.594,,,12.0,,14,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Alexander Albon,Williams,92.04,,,15.0,,15,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Nico Hulkenberg,Kick Sauber,92.067,,,16.0,,16,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Liam Lawson,Racing Bulls,92.165,,,17.0,,17,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Gabriel Bortoleto,Kick Sauber,92.186,,,18.0,,18,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Lance Stroll,Aston Martin,92.283,,,19.0,,19,30.89425287356321,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking,Oliver Bearman,Haas,92.373,,,20.0,,20,30.89425287356321,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Max Verstappen,Red Bull Racing,87.778,87.529,87.294,1.0,2.0,1,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Oscar Piastri,McLaren,87.901,87.545,87.304,3.0,3.0,2,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,George Russell,Mercedes,88.282,87.599,87.407,7.0,4.0,3,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Charles Leclerc,Ferrari,88.552,87.866,87.67,13.0,6.0,4,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Kimi Antonelli,Mercedes,88.128,87.798,87.866,4.0,5.0,5,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Carlos Sainz,Williams,88.354,88.024,88.164,8.0,8.0,6,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lewis Hamilton,Ferrari,88.372,88.102,88.201,9.0,10.0,7,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Yuki Tsunoda,Red Bull Racing,88.226,87.99,88.204,5.0,7.0,8,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Pierre Gasly,Alpine,88.421,88.025,88.367,10.0,9.0,9,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lando Norris,McLaren,87.805,87.481,,2.0,1.0,10,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Alexander Albon,Williams,88.279,88.109,,6.0,11.0,11,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Liam Lawson,Racing Bulls,88.561,88.191,,14.0,12.0,12,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Fernando Alonso,Aston Martin,88.548,88.303,,12.0,13.0,13,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Isack Hadjar,Racing Bulls,88.571,88.418,,15.0,14.0,14,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Oliver Bearman,Haas,88.536,88.648,,11.0,15.0,15,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Lance Stroll,Aston Martin,88.645,,,16.0,,16,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Jack Doohan,Alpine,88.739,,,17.0,,17,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Nico Hulkenberg,Kick Sauber,88.782,,,18.0,,18,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Esteban Ocon,Haas,89.092,,,19.0,,19,37.22558139534884,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed,Gabriel Bortoleto,Kick Sauber,89.462,,,20.0,,20,37.22558139534884,0
+2025,Miami Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,86.87,86.643,86.204,1.0,5.0,1,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Lando Norris,McLaren,86.955,86.499,86.269,2.0,2.0,2,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,87.077,86.606,86.271,6.0,4.0,3,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,87.006,86.269,86.375,3.0,1.0,4,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,George Russell,Mercedes,87.014,86.575,86.385,4.0,3.0,5,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Carlos Sainz,Williams,87.098,86.847,86.569,7.0,6.0,6,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Alexander Albon,Williams,87.042,86.855,86.682,5.0,7.0,7,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,87.417,86.948,86.754,12.0,8.0,8,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Esteban Ocon,Haas,87.45,86.967,86.824,15.0,10.0,9,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,87.298,86.959,86.943,9.0,9.0,10,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,87.301,86.987,,10.0,11.0,11,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,87.279,87.006,,8.0,12.0,12,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,87.343,87.151,,11.0,13.0,13,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Jack Doohan,Alpine,87.422,87.186,,13.0,14.0,14,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,87.444,87.363,,14.0,15.0,15,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,87.473,,,16.0,,16,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,87.604,,,17.0,,17,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,87.71,,,18.0,,18,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,87.83,,,19.0,,19,41.015384615384605,0
+2025,Miami Grand Prix,Permanent,Standard,Oliver Bearman,Haas,87.999,,,20.0,,20,41.015384615384605,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,75.5,75.214,74.67,2.0,2.0,1,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,75.175,75.394,74.704,1.0,5.0,2,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,George Russell,Mercedes,75.852,75.334,74.807,5.0,4.0,3,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Lando Norris,McLaren,75.894,75.261,74.962,6.0,3.0,4,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,75.695,75.442,75.431,3.0,6.0,5,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Carlos Sainz,Williams,75.987,75.198,75.432,9.0,1.0,6,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Alexander Albon,Williams,76.123,75.521,75.473,11.0,10.0,7,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,75.817,75.497,75.581,4.0,7.0,8,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,76.253,75.51,75.746,13.0,9.0,9,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,75.937,75.505,75.787,7.0,8.0,10,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,76.108,75.604,,10.0,11.0,11,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,76.163,75.765,,12.0,12.0,12,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,75.943,75.772,,8.0,13.0,13,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,76.34,76.26,,15.0,14.0,14,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,76.256,,,14.0,,15,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,76.379,,,16.0,,16,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,76.518,,,17.0,,17,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Esteban Ocon,Haas,76.613,,,18.0,,18,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Oliver Bearman,Haas,76.918,,,19.0,,19,39.41636363636363,0
+2025,Emilia Romagna Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,,,,,,20,39.41636363636363,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lando Norris,McLaren,71.285,70.57,69.954,2.0,1.0,1,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Charles Leclerc,Ferrari,71.229,70.581,70.063,1.0,2.0,2,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Oscar Piastri,McLaren,71.308,70.858,70.129,3.0,4.0,3,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lewis Hamilton,Ferrari,71.575,70.883,70.382,6.0,6.0,4,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Max Verstappen,Red Bull Racing,71.431,70.875,70.669,4.0,5.0,5,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Isack Hadjar,Racing Bulls,71.811,71.04,70.923,11.0,7.0,6,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Fernando Alonso,Aston Martin,71.674,71.182,70.924,8.0,8.0,7,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Esteban Ocon,Haas,71.839,71.262,70.942,13.0,10.0,8,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Liam Lawson,Racing Bulls,71.818,71.25,71.129,12.0,9.0,9,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Alexander Albon,Williams,71.629,70.732,71.213,7.0,3.0,10,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Carlos Sainz,Williams,71.707,71.362,,9.0,11.0,11,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Yuki Tsunoda,Red Bull Racing,71.8,71.415,,10.0,12.0,12,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Nico Hulkenberg,Kick Sauber,71.871,71.596,,14.0,13.0,13,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,George Russell,Mercedes,71.507,,,5.0,,14,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Kimi Antonelli,Mercedes,71.88,,,15.0,,15,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Gabriel Bortoleto,Kick Sauber,71.902,,,16.0,,16,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Oliver Bearman,Haas,71.979,,,17.0,,17,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Pierre Gasly,Alpine,71.994,,,18.0,,18,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lance Stroll,Aston Martin,72.563,,,19.0,,19,40.28709677419354,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Franco Colapinto,Alpine,72.597,,,20.0,,20,40.28709677419354,0
+2025,Spanish Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,72.551,71.998,71.546,1.0,1.0,1,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Lando Norris,McLaren,72.799,72.056,71.755,3.0,2.0,2,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,72.798,72.358,71.848,2.0,3.0,3,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,George Russell,Mercedes,72.806,72.407,71.848,4.0,4.0,4,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,73.058,72.447,72.045,11.0,5.0,5,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,72.815,72.585,72.111,5.0,9.0,6,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,73.014,72.495,72.131,6.0,7.0,7,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,73.081,72.611,72.199,13.0,10.0,8,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,73.139,72.461,72.252,15.0,6.0,9,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,73.102,72.523,72.284,14.0,8.0,10,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Alexander Albon,Williams,73.044,72.641,,9.0,11.0,11,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,73.045,72.756,,10.0,12.0,12,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,73.039,72.763,,8.0,13.0,13,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,73.038,73.058,,7.0,14.0,14,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Oliver Bearman,Haas,73.074,73.315,,12.0,15.0,15,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,73.19,,,16.0,,16,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Esteban Ocon,Haas,73.201,,,17.0,,17,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Carlos Sainz,Williams,73.203,,,18.0,,18,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,73.334,,,19.0,,19,46.82337662337662,0
+2025,Spanish Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,73.385,,,20.0,,20,46.82337662337662,0
+2025,Canadian Grand Prix,Permanent,Standard,George Russell,Mercedes,72.075,71.57,70.899,7.0,1.0,1,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,72.054,71.638,71.059,5.0,4.0,2,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,71.939,71.715,71.12,2.0,5.0,3,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,72.279,71.974,71.391,11.0,9.0,4,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,71.952,71.885,71.526,3.0,7.0,5,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,72.073,71.805,71.586,6.0,6.0,6,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Lando Norris,McLaren,71.826,71.599,71.625,1.0,2.0,7,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,72.038,71.626,71.682,4.0,3.0,8,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,72.211,72.003,71.867,9.0,10.0,9,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Alexander Albon,Williams,72.09,71.892,71.907,8.0,8.0,10,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,72.334,72.102,,14.0,11.0,11,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,72.234,72.142,,10.0,12.0,12,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,72.323,72.183,,13.0,13.0,13,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,72.306,72.34,,12.0,14.0,14,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,72.378,72.634,,15.0,15.0,15,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,72.385,,,16.0,,16,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,72.398,,,17.0,,17,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,72.517,,,18.0,,18,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,72.525,,,19.0,,19,43.145882352941186,0
+2025,Canadian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,72.667,,,20.0,,20,43.145882352941186,0
+2025,Austrian Grand Prix,Permanent,Standard,Lando Norris,McLaren,64.672,64.41,63.971,1.0,1.0,1,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,65.197,64.734,64.492,12.0,3.0,2,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,64.966,64.556,64.554,2.0,2.0,3,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,65.115,64.896,64.582,7.0,8.0,4,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,George Russell,Mercedes,65.189,64.86,64.763,11.0,7.0,5,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,65.017,65.041,64.926,3.0,9.0,6,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,65.106,64.836,64.929,6.0,4.0,7,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,65.123,64.846,65.132,8.0,5.0,8,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,65.178,65.052,65.276,10.0,10.0,9,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,65.054,64.846,65.649,4.0,5.0,10,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,65.197,65.128,,12.0,11.0,11,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Alexander Albon,Williams,65.143,65.205,,9.0,12.0,12,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,65.063,65.226,,5.0,13.0,13,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,65.278,65.288,,15.0,14.0,14,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,65.218,65.312,,14.0,15.0,15,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,65.329,,,16.0,,16,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,65.364,,,17.0,,17,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,65.369,,,18.0,,18,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,65.582,,,19.0,,19,47.19659090909091,0
+2025,Austrian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,65.606,,,20.0,,20,47.19659090909091,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Max Verstappen,Red Bull Racing,85.886,85.316,84.892,1.0,4.0,1,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Oscar Piastri,McLaren,85.963,85.316,84.995,2.0,4.0,2,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Lando Norris,McLaren,86.123,85.231,85.01,6.0,3.0,3,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,George Russell,Mercedes,86.236,85.637,85.029,11.0,9.0,4,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Lewis Hamilton,Ferrari,86.296,85.084,85.095,14.0,1.0,5,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Charles Leclerc,Ferrari,86.186,85.133,85.121,10.0,2.0,6,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Kimi Antonelli,Mercedes,86.265,85.62,85.374,12.0,8.0,7,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Oliver Bearman,Haas,86.005,85.534,85.471,3.0,6.0,8,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Fernando Alonso,Aston Martin,86.108,85.593,85.621,5.0,7.0,9,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Pierre Gasly,Alpine,86.328,85.711,85.785,15.0,10.0,10,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Carlos Sainz,Williams,86.175,85.746,,8.0,11.0,11,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Yuki Tsunoda,Red Bull Racing,86.275,85.826,,13.0,12.0,12,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Isack Hadjar,Racing Bulls,86.177,85.864,,9.0,13.0,13,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Alexander Albon,Williams,86.093,85.889,,4.0,14.0,14,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Esteban Ocon,Haas,86.136,85.95,,7.0,15.0,15,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Liam Lawson,Racing Bulls,86.44,,,16.0,,16,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Gabriel Bortoleto,Kick Sauber,86.446,,,17.0,,17,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Lance Stroll,Aston Martin,86.504,,,18.0,,18,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Nico Hulkenberg,Kick Sauber,86.574,,,19.0,,19,27.432183908045985,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed,Franco Colapinto,Alpine,87.06,,,20.0,,20,27.432183908045985,0
+2025,Belgian Grand Prix,Permanent,Standard,Lando Norris,McLaren,101.01,100.715,100.562,1.0,2.0,1,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,101.201,100.626,100.647,2.0,1.0,2,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,101.635,101.084,100.9,6.0,4.0,3,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,101.334,100.951,100.903,3.0,3.0,4,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Alexander Albon,Williams,101.772,101.505,101.201,9.0,10.0,5,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,George Russell,Mercedes,101.784,101.254,101.26,10.0,6.0,6,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,101.84,101.245,101.284,12.0,5.0,7,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,101.572,101.281,101.31,4.0,7.0,8,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,101.748,101.297,101.328,8.0,8.0,9,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,101.908,101.336,102.387,15.0,9.0,10,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,101.884,101.525,,14.0,11.0,11,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,101.617,101.617,,5.0,12.0,12,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,101.8,101.633,,11.0,13.0,13,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,101.844,101.707,,13.0,14.0,14,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,101.691,101.758,,7.0,15.0,15,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,101.939,,,16.0,,16,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,102.022,,,17.0,,17,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,102.139,,,18.0,,18,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,102.385,,,19.0,,19,37.72658227848101,0
+2025,Belgian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,102.502,,,20.0,,20,37.72658227848101,0
+2025,Hungarian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,75.582,75.455,75.372,5.0,6.0,1,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,75.211,74.941,75.398,1.0,2.0,2,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Lando Norris,McLaren,75.523,74.89,75.413,4.0,1.0,3,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,George Russell,Mercedes,75.627,75.201,75.425,7.0,4.0,4,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,75.281,75.395,75.481,2.0,5.0,5,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,75.673,75.129,75.498,9.0,3.0,6,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,75.586,75.687,75.725,6.0,10.0,7,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,75.736,75.547,75.728,11.0,8.0,8,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,75.849,75.63,75.821,14.0,9.0,9,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,75.516,75.469,75.915,3.0,7.0,10,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,75.75,75.694,,12.0,11.0,11,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,75.733,75.702,,10.0,12.0,12,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,75.652,75.781,,8.0,13.0,13,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,75.875,76.159,,15.0,14.0,14,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,75.782,76.386,,13.0,15.0,15,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,75.899,,,16.0,,16,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,75.966,,,17.0,,17,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,76.023,,,18.0,,18,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,76.081,,,19.0,,19,42.53333333333334,0
+2025,Hungarian Grand Prix,Permanent,Standard,Alexander Albon,Williams,76.223,,,20.0,,20,42.53333333333334,0
+2025,Dutch Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,69.338,68.964,68.662,1.0,2.0,1,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Lando Norris,McLaren,69.469,68.874,68.674,2.0,1.0,2,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,69.696,69.122,68.925,4.0,3.0,3,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,69.966,69.439,69.208,13.0,9.0,4,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,George Russell,Mercedes,69.676,69.313,69.255,3.0,6.0,5,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,69.906,69.304,69.34,10.0,5.0,6,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,69.9,69.261,69.39,9.0,4.0,7,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,69.779,69.383,69.5,5.0,8.0,8,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Carlos Sainz,Williams,69.98,69.472,69.505,14.0,10.0,9,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,69.95,69.366,69.63,11.0,7.0,10,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,69.845,69.493,,7.0,11.0,11,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,69.954,69.622,,12.0,12.0,12,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,70.037,69.622,,15.0,12.0,13,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,69.894,69.637,,8.0,14.0,14,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Alexander Albon,Williams,69.792,69.652,,6.0,15.0,15,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,70.104,,,16.0,,16,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,70.195,,,17.0,,17,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Esteban Ocon,Haas,70.197,,,18.0,,18,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Oliver Bearman,Haas,70.262,,,19.0,,19,34.228205128205126,0
+2025,Dutch Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,,,,,,20,34.228205128205126,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Max Verstappen,Red Bull Racing,79.455,79.14,78.792,2.0,1.0,1,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lando Norris,McLaren,79.517,79.293,78.869,3.0,5.0,2,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Oscar Piastri,McLaren,79.711,79.286,78.982,10.0,3.0,3,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Charles Leclerc,Ferrari,79.689,79.31,79.007,9.0,6.0,4,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lewis Hamilton,Ferrari,79.765,79.371,79.124,12.0,9.0,5,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,George Russell,Mercedes,79.414,79.287,79.157,1.0,4.0,6,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Kimi Antonelli,Mercedes,79.747,79.245,79.2,11.0,2.0,7,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Gabriel Bortoleto,Kick Sauber,79.688,79.323,79.39,7.0,7.0,8,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Fernando Alonso,Aston Martin,79.658,79.362,79.424,6.0,8.0,9,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Yuki Tsunoda,Red Bull Racing,79.619,79.433,79.519,4.0,10.0,10,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Oliver Bearman,Haas,79.688,79.446,,7.0,11.0,11,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Nico Hulkenberg,Kick Sauber,79.777,79.498,,13.0,12.0,12,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Carlos Sainz,Williams,79.644,79.528,,5.0,13.0,13,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Alexander Albon,Williams,79.837,79.583,,15.0,14.0,14,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Esteban Ocon,Haas,79.816,79.707,,14.0,15.0,15,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Isack Hadjar,Racing Bulls,79.917,,,16.0,,16,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Lance Stroll,Aston Martin,79.948,,,17.0,,17,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Franco Colapinto,Alpine,79.992,,,18.0,,18,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Pierre Gasly,Alpine,80.103,,,19.0,,19,42.77820512820513,0
+2025,Italian Grand Prix,Permanent,Top-Speed / Low-Drag,Liam Lawson,Racing Bulls,80.279,,,20.0,,20,42.77820512820513,0
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Max Verstappen,Red Bull Racing,101.331,101.255,101.117,2.0,1.0,1,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Carlos Sainz,Williams,102.635,101.675,101.595,14.0,9.0,2,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Liam Lawson,Racing Bulls,102.257,101.537,101.707,11.0,7.0,3,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Kimi Antonelli,Mercedes,102.247,101.464,101.717,10.0,5.0,4,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,George Russell,Mercedes,101.646,101.455,102.07,4.0,4.0,5,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Yuki Tsunoda,Red Bull Racing,102.347,101.788,102.143,12.0,10.0,6,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lando Norris,McLaren,101.322,101.396,102.239,1.0,2.0,7,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Isack Hadjar,Racing Bulls,101.656,101.647,102.372,5.0,8.0,8,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Oscar Piastri,McLaren,101.839,101.414,,7.0,3.0,9,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Charles Leclerc,Ferrari,101.458,101.519,,3.0,6.0,10,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Fernando Alonso,Aston Martin,102.211,101.857,,9.0,11.0,11,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lewis Hamilton,Ferrari,101.821,102.183,,6.0,12.0,12,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Gabriel Bortoleto,Kick Sauber,102.511,102.277,,13.0,13.0,13,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Lance Stroll,Aston Martin,102.101,103.061,,8.0,14.0,14,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Oliver Bearman,Haas,102.666,,,15.0,,15,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Franco Colapinto,Alpine,102.779,,,16.0,,16,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Nico Hulkenberg,Kick Sauber,102.916,,,17.0,,17,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Pierre Gasly,Alpine,103.139,,,18.0,,18,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Alexander Albon,Williams,103.778,,,19.0,,19,26.07851851851852,1
+2025,Azerbaijan Grand Prix,Street,Top-Speed / 90-Degree-Turns,Esteban Ocon,Haas,,,,,,20,26.07851851851852,1
+2025,Singapore Grand Prix,Permanent,Standard,George Russell,Mercedes,89.928,89.562,89.158,2.0,1.0,1,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,90.028,89.572,89.34,4.0,2.0,2,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,90.313,89.813,89.524,7.0,5.0,3,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,90.036,89.649,89.537,5.0,3.0,4,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Lando Norris,McLaren,89.932,89.809,89.586,3.0,4.0,5,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,89.765,89.936,89.688,1.0,7.0,6,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,90.37,89.914,89.784,8.0,6.0,7,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,90.214,90.016,89.846,6.0,8.0,8,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Oliver Bearman,Haas,90.42,90.076,89.868,9.0,10.0,9,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,90.745,90.054,89.955,13.0,9.0,10,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,90.715,90.141,,12.0,11.0,11,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,90.681,90.32,,11.0,12.0,12,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,90.574,90.353,,10.0,13.0,13,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,90.82,,,14.0,,14,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,90.949,,,15.0,,15,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,90.982,,,16.0,,16,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Esteban Ocon,Haas,90.989,,,17.0,,17,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,91.261,,,18.0,,18,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Alexander Albon,Williams,,,,,,19,34.9609756097561,0
+2025,Singapore Grand Prix,Permanent,Standard,Carlos Sainz,Williams,,,,,,20,34.9609756097561,0
+2025,United States Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,93.207,92.701,92.51,1.0,1.0,1,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Lando Norris,McLaren,93.843,92.876,92.801,12.0,3.0,2,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,93.525,92.869,92.807,4.0,2.0,3,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,George Russell,Mercedes,93.311,93.058,92.826,2.0,6.0,4,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,93.685,92.914,92.912,8.0,4.0,5,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,93.746,93.228,93.084,11.0,8.0,6,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,93.501,93.044,93.114,3.0,5.0,7,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Oliver Bearman,Haas,93.921,93.238,93.139,13.0,10.0,8,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Carlos Sainz,Williams,93.739,93.124,93.15,9.0,7.0,9,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,93.741,93.237,93.16,10.0,9.0,10,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,93.551,93.334,,6.0,11.0,11,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,93.549,93.36,,5.0,12.0,12,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,93.935,93.466,,14.0,13.0,13,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,93.599,93.651,,7.0,14.0,14,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,94.039,94.044,,15.0,15.0,15,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,94.125,,,16.0,,16,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Esteban Ocon,Haas,94.136,,,17.0,,17,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,94.54,,,18.0,,18,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Alexander Albon,Williams,94.69,,,19.0,,19,45.712500000000006,0
+2025,United States Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,,,,,,20,45.712500000000006,0
+2025,Mexico City Grand Prix,Permanent,Standard,Lando Norris,McLaren,76.899,76.252,75.586,4.0,1.0,1,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,77.024,76.658,75.848,7.0,6.0,2,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,76.736,76.458,75.938,2.0,2.0,3,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,George Russell,Mercedes,76.895,76.537,76.034,3.0,3.0,4,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,77.076,76.605,76.07,9.0,4.0,5,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,77.291,76.773,76.118,15.0,8.0,6,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Carlos Sainz,Williams,77.171,76.607,76.172,11.0,5.0,7,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,77.158,76.737,76.174,10.0,7.0,8,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,76.733,76.804,76.252,1.0,10.0,9,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Oliver Bearman,Haas,77.04,76.787,76.46,8.0,9.0,10,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,77.234,76.816,,13.0,11.0,11,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Esteban Ocon,Haas,76.948,76.837,,5.0,12.0,12,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,77.251,77.016,,14.0,13.0,13,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,77.232,77.103,,12.0,14.0,14,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,76.961,78.072,,6.0,15.0,15,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,77.412,,,16.0,,16,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Alexander Albon,Williams,77.49,,,17.0,,17,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,77.546,,,18.0,,18,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,77.606,,,19.0,,19,46.035897435897446,0
+2025,Mexico City Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,77.67,,,20.0,,20,46.035897435897446,0
+2025,São Paulo Grand Prix,Permanent,Standard,Lando Norris,McLaren,69.656,69.616,69.511,1.0,1.0,1,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,70.192,69.774,69.685,14.0,3.0,2,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,69.934,69.801,69.805,5.0,4.0,3,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,69.928,69.835,69.886,4.0,5.0,4,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,70.083,69.97,69.931,9.0,9.0,5,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,George Russell,Mercedes,69.935,69.88,69.942,6.0,7.0,6,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,70.108,69.95,69.962,10.0,8.0,7,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Oliver Bearman,Haas,69.891,69.755,69.977,3.0,2.0,8,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,69.885,69.857,70.002,2.0,6.0,9,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,70.337,69.985,70.039,15.0,10.0,10,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,70.181,70.001,,12.0,11.0,11,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Alexander Albon,Williams,70.115,70.053,,11.0,12.0,12,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,70.016,70.1,,7.0,13.0,13,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,70.041,70.161,,8.0,14.0,14,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Carlos Sainz,Williams,70.184,70.472,,13.0,15.0,15,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,70.403,,,16.0,,16,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Esteban Ocon,Haas,70.438,,,17.0,,17,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,70.632,,,18.0,,18,40.28048780487806,0
+2025,São Paulo Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,70.711,,,19.0,,19,40.28048780487806,0
+2025,Las Vegas Grand Prix,Permanent,Standard,Lando Norris,McLaren,115.473,111.379,107.934,13.0,4.0,1,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,113.458,111.593,108.257,2.0,5.0,2,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Carlos Sainz,Williams,114.873,111.144,108.296,12.0,3.0,3,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,George Russell,Mercedes,113.144,110.935,108.803,1.0,1.0,4,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,114.544,112.126,108.961,6.0,10.0,5,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,114.828,111.621,109.062,10.0,6.0,6,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,113.739,111.865,109.466,3.0,8.0,7,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,115.613,111.12,109.554,14.0,2.0,8,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,114.814,111.952,109.872,9.0,9.0,9,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,114.432,111.76,111.54,5.0,7.0,10,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,114.555,112.781,,7.0,11.0,11,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,114.416,112.85,,4.0,12.0,12,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Esteban Ocon,Haas,114.635,112.987,,8.0,13.0,13,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Oliver Bearman,Haas,116.016,113.094,,15.0,14.0,14,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,114.847,113.683,,11.0,15.0,15,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Alexander Albon,Williams,116.22,,,16.0,,16,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,116.314,,,17.0,,17,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,116.674,,,18.0,,18,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,116.798,,,19.0,,19,12.549411764705884,1
+2025,Las Vegas Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,117.115,,,20.0,,20,12.549411764705884,1
+2025,Qatar Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,80.234,79.65,79.387,3.0,1.0,1,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Lando Norris,McLaren,80.157,79.861,79.495,2.0,2.0,2,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,80.472,79.985,79.651,4.0,3.0,3,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,George Russell,Mercedes,80.074,80.186,79.662,1.0,5.0,4,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,80.576,80.084,79.846,9.0,4.0,5,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,80.603,80.35,80.114,11.0,10.0,6,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Carlos Sainz,Williams,80.52,80.251,80.287,5.0,7.0,7,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,80.598,80.219,80.418,10.0,6.0,8,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,80.681,80.324,80.477,15.0,8.0,9,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,80.564,80.343,80.561,8.0,9.0,10,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,80.63,80.353,,13.0,11.0,11,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,80.539,80.433,,6.0,12.0,12,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Oliver Bearman,Haas,80.548,80.438,,7.0,13.0,13,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,80.653,80.534,,14.0,14.0,14,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Alexander Albon,Williams,80.629,80.629,,12.0,15.0,15,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,80.761,,,16.0,,16,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Esteban Ocon,Haas,80.864,,,17.0,,17,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,80.907,,,18.0,,18,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,81.058,,,19.0,,19,25.481395348837214,0
+2025,Qatar Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,81.137,,,20.0,,20,25.481395348837214,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,82.877,82.752,82.207,2.0,2.0,1,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Lando Norris,McLaren,83.178,82.804,82.408,6.0,3.0,2,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,82.605,83.021,82.437,1.0,8.0,3,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,George Russell,Mercedes,83.247,82.73,82.645,8.0,1.0,4,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,83.163,82.948,82.73,5.0,6.0,5,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,83.071,82.861,82.902,4.0,4.0,6,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,83.374,82.874,82.904,14.0,5.0,7,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Esteban Ocon,Haas,83.334,83.023,82.913,12.0,9.0,8,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,83.373,82.997,83.072,13.0,7.0,9,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,83.386,83.034,,15.0,10.0,10,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Oliver Bearman,Haas,83.254,83.041,,9.0,11.0,11,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Carlos Sainz,Williams,83.187,83.042,,7.0,12.0,12,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,83.265,83.077,,10.0,13.0,13,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,82.894,83.08,,3.0,14.0,14,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,83.316,83.097,,11.0,15.0,15,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,83.394,,,16.0,,16,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Alexander Albon,Williams,83.416,,,17.0,,17,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,83.45,,,18.0,,18,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,83.468,,,19.0,,19,29.110389610389603,0
+2025,Abu Dhabi Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,83.89,,,20.0,,20,29.110389610389603,0

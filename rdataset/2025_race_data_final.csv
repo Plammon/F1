@@ -1,0 +1,260 @@
+Year,GP,Track_Type,Track_DNA,Driver,Team,Grid_Pos,Final_Pos,Points,Status,TrackTemp,Rain
+2025,Australian Grand Prix,Permanent,Standard,Lando Norris,McLaren,1.0,1.0,25.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,3.0,2.0,18.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,George Russell,Mercedes,4.0,3.0,15.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Andrea Kimi Antonelli,Mercedes,16.0,4.0,12.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Alexander Albon,Williams,6.0,5.0,10.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,13.0,6.0,8.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,17.0,7.0,6.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,7.0,8.0,4.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,2.0,9.0,2.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,8.0,10.0,1.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,9.0,11.0,0.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Yuki Tsunoda,Racing Bulls,5.0,12.0,0.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,19.0,13.0,0.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,20.0,14.0,0.0,Finished,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Liam Lawson,Red Bull Racing,18.0,15.0,0.0,Retired,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,15.0,16.0,0.0,Retired,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,12.0,17.0,0.0,Retired,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,10.0,18.0,0.0,Retired,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Jack Doohan,Alpine,14.0,19.0,0.0,Retired,18.942134831460674,1
+2025,Australian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,11.0,20.0,0.0,Retired,18.942134831460674,1
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Lando Norris,McLaren,3.0,2.0,18.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,George Russell,Mercedes,2.0,3.0,15.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Esteban Ocon,Haas,11.0,5.0,10.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Kimi Antonelli,Mercedes,8.0,6.0,8.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Alexander Albon,Williams,10.0,7.0,6.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Oliver Bearman,Haas,17.0,8.0,4.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Lance Stroll,Aston Martin,14.0,9.0,2.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Carlos Sainz,Williams,15.0,10.0,1.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Isack Hadjar,Racing Bulls,7.0,11.0,0.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Liam Lawson,Red Bull Racing,20.0,12.0,0.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Jack Doohan,Alpine,18.0,13.0,0.0,Finished,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Gabriel Bortoleto,Kick Sauber,19.0,14.0,0.0,Lapped,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Nico Hulkenberg,Kick Sauber,12.0,15.0,0.0,Lapped,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Yuki Tsunoda,Racing Bulls,9.0,16.0,0.0,Lapped,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Fernando Alonso,Aston Martin,13.0,17.0,0.0,Retired,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Charles Leclerc,Ferrari,6.0,18.0,0.0,Disqualified,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Lewis Hamilton,Ferrari,5.0,19.0,0.0,Disqualified,35.81688311688312,0
+2025,Chinese Grand Prix,Permanent,Front-Limited / Technical,Pierre Gasly,Alpine,16.0,20.0,0.0,Disqualified,35.81688311688312,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Max Verstappen,Red Bull Racing,1.0,1.0,25.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Lando Norris,McLaren,2.0,2.0,18.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Oscar Piastri,McLaren,3.0,3.0,15.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,George Russell,Mercedes,5.0,5.0,10.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Kimi Antonelli,Mercedes,6.0,6.0,8.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Lewis Hamilton,Ferrari,8.0,7.0,6.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Isack Hadjar,Racing Bulls,7.0,8.0,4.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Alexander Albon,Williams,9.0,9.0,2.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Oliver Bearman,Haas,10.0,10.0,1.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Fernando Alonso,Aston Martin,12.0,11.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Yuki Tsunoda,Red Bull Racing,14.0,12.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Pierre Gasly,Alpine,11.0,13.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Carlos Sainz,Williams,15.0,14.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Jack Doohan,Alpine,19.0,15.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Nico Hulkenberg,Kick Sauber,16.0,16.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Liam Lawson,Racing Bulls,13.0,17.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Esteban Ocon,Haas,18.0,18.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Gabriel Bortoleto,Kick Sauber,17.0,19.0,0.0,Finished,20.514285714285716,0
+2025,Japanese Grand Prix,Permanent,High-Speed-Flowing / Technical,Lance Stroll,Aston Martin,20.0,20.0,0.0,Lapped,20.514285714285716,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,George Russell,Mercedes,3.0,2.0,18.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Lando Norris,McLaren,6.0,3.0,15.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Charles Leclerc,Ferrari,2.0,4.0,12.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Lewis Hamilton,Ferrari,9.0,5.0,10.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Max Verstappen,Red Bull Racing,7.0,6.0,8.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Pierre Gasly,Alpine,4.0,7.0,6.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Esteban Ocon,Haas,14.0,8.0,4.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Yuki Tsunoda,Red Bull Racing,10.0,9.0,2.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Oliver Bearman,Haas,20.0,10.0,1.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Kimi Antonelli,Mercedes,5.0,11.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Alexander Albon,Williams,15.0,12.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Isack Hadjar,Racing Bulls,12.0,13.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Jack Doohan,Alpine,11.0,14.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Fernando Alonso,Aston Martin,13.0,15.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Liam Lawson,Racing Bulls,17.0,16.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Lance Stroll,Aston Martin,19.0,17.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Gabriel Bortoleto,Kick Sauber,18.0,18.0,0.0,Finished,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Carlos Sainz,Williams,8.0,19.0,0.0,Retired,31.870253164556964,0
+2025,Bahrain Grand Prix,Permanent,Traction & Braking / Rough Asphalt,Nico Hulkenberg,Kick Sauber,16.0,20.0,0.0,Disqualified,31.870253164556964,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Oscar Piastri,McLaren,2.0,1.0,25.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Max Verstappen,Red Bull Racing,1.0,2.0,18.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Charles Leclerc,Ferrari,4.0,3.0,15.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Lando Norris,McLaren,10.0,4.0,12.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,George Russell,Mercedes,3.0,5.0,10.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Kimi Antonelli,Mercedes,5.0,6.0,8.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Lewis Hamilton,Ferrari,7.0,7.0,6.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Carlos Sainz,Williams,6.0,8.0,4.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Alexander Albon,Williams,11.0,9.0,2.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Isack Hadjar,Racing Bulls,14.0,10.0,1.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Fernando Alonso,Aston Martin,13.0,11.0,0.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Liam Lawson,Racing Bulls,12.0,12.0,0.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Oliver Bearman,Haas,15.0,13.0,0.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Esteban Ocon,Haas,19.0,14.0,0.0,Finished,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Nico Hulkenberg,Kick Sauber,18.0,15.0,0.0,Lapped,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Lance Stroll,Aston Martin,16.0,16.0,0.0,Lapped,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Jack Doohan,Alpine,17.0,17.0,0.0,Lapped,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Gabriel Bortoleto,Kick Sauber,20.0,18.0,0.0,Lapped,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Yuki Tsunoda,Red Bull Racing,8.0,19.0,0.0,Retired,37.819718309859155,0
+2025,Saudi Arabian Grand Prix,Street,Ultra-High-Speed / Flowing,Pierre Gasly,Alpine,9.0,20.0,0.0,Retired,37.819718309859155,0
+2025,Miami Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,4.0,1.0,25.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Lando Norris,McLaren,2.0,2.0,18.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,George Russell,Mercedes,5.0,3.0,15.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,1.0,4.0,12.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Alexander Albon,Williams,7.0,5.0,10.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,3.0,6.0,8.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,8.0,7.0,6.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,12.0,8.0,4.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Carlos Sainz,Williams,6.0,9.0,2.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,10.0,10.0,1.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,11.0,11.0,0.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Esteban Ocon,Haas,9.0,12.0,0.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,20.0,13.0,0.0,Finished,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,16.0,14.0,0.0,Lapped,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,17.0,15.0,0.0,Lapped,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,18.0,16.0,0.0,Lapped,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,15.0,17.0,0.0,Retired,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,13.0,18.0,0.0,Retired,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Oliver Bearman,Haas,19.0,19.0,0.0,Retired,38.69060402684564,1
+2025,Miami Grand Prix,Permanent,Standard,Jack Doohan,Alpine,14.0,20.0,0.0,Retired,38.69060402684564,1
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Max Verstappen,Red Bull Racing,2.0,1.0,25.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Lando Norris,McLaren,4.0,2.0,18.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Oscar Piastri,McLaren,1.0,3.0,15.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Lewis Hamilton,Ferrari,12.0,4.0,12.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Alexander Albon,Williams,7.0,5.0,10.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Charles Leclerc,Ferrari,11.0,6.0,8.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,George Russell,Mercedes,3.0,7.0,6.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Carlos Sainz,Williams,6.0,8.0,4.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Isack Hadjar,Racing Bulls,9.0,9.0,2.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Yuki Tsunoda,Red Bull Racing,20.0,10.0,1.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Fernando Alonso,Aston Martin,5.0,11.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Nico Hulkenberg,Kick Sauber,17.0,12.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Pierre Gasly,Alpine,10.0,13.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Liam Lawson,Racing Bulls,15.0,14.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Lance Stroll,Aston Martin,8.0,15.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Franco Colapinto,Alpine,16.0,16.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Oliver Bearman,Haas,19.0,17.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Gabriel Bortoleto,Kick Sauber,14.0,18.0,0.0,Finished,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Kimi Antonelli,Mercedes,13.0,19.0,0.0,Retired,42.664,0
+2025,Emilia Romagna Grand Prix,Permanent,Technical / Narrow / High-Kerbs,Esteban Ocon,Haas,18.0,20.0,0.0,Retired,42.664,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lando Norris,McLaren,1.0,1.0,25.0,Finished,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Charles Leclerc,Ferrari,2.0,2.0,18.0,Finished,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Oscar Piastri,McLaren,3.0,3.0,15.0,Finished,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lewis Hamilton,Ferrari,7.0,5.0,10.0,Finished,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Isack Hadjar,Racing Bulls,5.0,6.0,8.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Esteban Ocon,Haas,8.0,7.0,6.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Liam Lawson,Racing Bulls,9.0,8.0,4.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Alexander Albon,Williams,10.0,9.0,2.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Carlos Sainz,Williams,11.0,10.0,1.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,George Russell,Mercedes,14.0,11.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Oliver Bearman,Haas,20.0,12.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Franco Colapinto,Alpine,18.0,13.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Gabriel Bortoleto,Kick Sauber,16.0,14.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Lance Stroll,Aston Martin,19.0,15.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Nico Hulkenberg,Kick Sauber,13.0,16.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Yuki Tsunoda,Red Bull Racing,12.0,17.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Kimi Antonelli,Mercedes,15.0,18.0,0.0,Lapped,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Fernando Alonso,Aston Martin,6.0,19.0,0.0,Retired,43.317499999999995,0
+2025,Monaco Grand Prix,Street,Low-Speed / Max-Downforce,Pierre Gasly,Alpine,17.0,20.0,0.0,Retired,43.317499999999995,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Oscar Piastri,McLaren,1.0,1.0,25.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Lando Norris,McLaren,2.0,2.0,18.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Charles Leclerc,Ferrari,7.0,3.0,15.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,George Russell,Mercedes,4.0,4.0,12.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Nico Hulkenberg,Kick Sauber,15.0,5.0,10.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Lewis Hamilton,Ferrari,5.0,6.0,8.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Isack Hadjar,Racing Bulls,9.0,7.0,6.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Pierre Gasly,Alpine,8.0,8.0,4.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Fernando Alonso,Aston Martin,10.0,9.0,2.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Max Verstappen,Red Bull Racing,3.0,10.0,1.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Liam Lawson,Racing Bulls,13.0,11.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Gabriel Bortoleto,Kick Sauber,12.0,12.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Yuki Tsunoda,Red Bull Racing,19.0,13.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Carlos Sainz,Williams,17.0,14.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Franco Colapinto,Alpine,18.0,15.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Esteban Ocon,Haas,16.0,16.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Oliver Bearman,Haas,14.0,17.0,0.0,Finished,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Kimi Antonelli,Mercedes,6.0,18.0,0.0,Retired,48.54322580645161,0
+2025,Spanish Grand Prix,Permanent,Aerodynamic-Efficiency,Alexander Albon,Williams,11.0,19.0,0.0,Retired,48.54322580645161,0
+2025,Canadian Grand Prix,Permanent,Standard,George Russell,Mercedes,1.0,1.0,25.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,2.0,2.0,18.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,4.0,3.0,15.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,3.0,4.0,12.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,8.0,5.0,10.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,5.0,6.0,8.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,6.0,7.0,6.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,11.0,8.0,4.0,Finished,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,14.0,9.0,2.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,16.0,10.0,1.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,13.0,11.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,18.0,12.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,10.0,13.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,15.0,14.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,20.0,15.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,12.0,16.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,17.0,17.0,0.0,Lapped,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Lando Norris,McLaren,7.0,18.0,0.0,Retired,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,19.0,19.0,0.0,Retired,49.25329341317366,1
+2025,Canadian Grand Prix,Permanent,Standard,Alexander Albon,Williams,9.0,20.0,0.0,Retired,49.25329341317366,1
+2025,Austrian Grand Prix,Permanent,Standard,Lando Norris,McLaren,1.0,1.0,25.0,Finished,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,3.0,2.0,18.0,Finished,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,2.0,3.0,15.0,Finished,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,4.0,4.0,12.0,Finished,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,George Russell,Mercedes,5.0,5.0,10.0,Finished,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,6.0,6.0,8.0,Finished,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,11.0,7.0,6.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,8.0,8.0,4.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,20.0,9.0,2.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,17.0,10.0,1.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,15.0,11.0,0.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,13.0,12.0,0.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,10.0,13.0,0.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,16.0,14.0,0.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,14.0,15.0,0.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,18.0,16.0,0.0,Lapped,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Alexander Albon,Williams,12.0,17.0,0.0,Retired,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,7.0,18.0,0.0,Retired,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,9.0,19.0,0.0,Retired,49.166459627329196,0
+2025,Austrian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,19.0,20.0,0.0,Did not start,49.166459627329196,0
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Lando Norris,McLaren,3.0,1.0,25.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Oscar Piastri,McLaren,2.0,2.0,18.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Nico Hulkenberg,Kick Sauber,19.0,3.0,15.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Lewis Hamilton,Ferrari,5.0,4.0,12.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Max Verstappen,Red Bull Racing,1.0,5.0,10.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Pierre Gasly,Alpine,8.0,6.0,8.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Lance Stroll,Aston Martin,17.0,7.0,6.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Alexander Albon,Williams,13.0,8.0,4.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Fernando Alonso,Aston Martin,7.0,9.0,2.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,George Russell,Mercedes,4.0,10.0,1.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Oliver Bearman,Haas,18.0,11.0,0.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Carlos Sainz,Williams,9.0,12.0,0.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Esteban Ocon,Haas,14.0,13.0,0.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Charles Leclerc,Ferrari,6.0,14.0,0.0,Finished,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Yuki Tsunoda,Red Bull Racing,11.0,15.0,0.0,Lapped,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Kimi Antonelli,Mercedes,10.0,16.0,0.0,Retired,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Isack Hadjar,Racing Bulls,12.0,17.0,0.0,Retired,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Gabriel Bortoleto,Kick Sauber,16.0,18.0,0.0,Retired,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Liam Lawson,Racing Bulls,15.0,19.0,0.0,Retired,23.578709677419354,1
+2025,British Grand Prix,Permanent,Ultra-High-Speed / Aero-Load,Franco Colapinto,Alpine,20.0,20.0,0.0,Did not start,23.578709677419354,1
+2025,Belgian Grand Prix,Permanent,Standard,Oscar Piastri,McLaren,2.0,1.0,25.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Lando Norris,McLaren,1.0,2.0,18.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Charles Leclerc,Ferrari,3.0,3.0,15.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Max Verstappen,Red Bull Racing,4.0,4.0,12.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,George Russell,Mercedes,6.0,5.0,10.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Alexander Albon,Williams,5.0,6.0,8.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Lewis Hamilton,Ferrari,18.0,7.0,6.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Liam Lawson,Racing Bulls,9.0,8.0,4.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Gabriel Bortoleto,Kick Sauber,10.0,9.0,2.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Pierre Gasly,Alpine,13.0,10.0,1.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Oliver Bearman,Haas,12.0,11.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Nico Hulkenberg,Kick Sauber,14.0,12.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Yuki Tsunoda,Red Bull Racing,7.0,13.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Lance Stroll,Aston Martin,16.0,14.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Esteban Ocon,Haas,11.0,15.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Kimi Antonelli,Mercedes,19.0,16.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Fernando Alonso,Aston Martin,20.0,17.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Carlos Sainz,Williams,17.0,18.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Franco Colapinto,Alpine,15.0,19.0,0.0,Finished,24.09013452914799,1
+2025,Belgian Grand Prix,Permanent,Standard,Isack Hadjar,Racing Bulls,8.0,20.0,0.0,Lapped,24.09013452914799,1
