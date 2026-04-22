@@ -1,0 +1,67 @@
+Year,GP,Track_Type,Track_DNA,Driver,Team,Grid_Pos,Final_Pos,Points,Status,TrackTemp,Rain
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,George Russell,Mercedes,1.0,1.0,25.0,Finished,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Kimi Antonelli,Mercedes,2.0,2.0,18.0,Finished,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Charles Leclerc,Ferrari,4.0,3.0,15.0,Finished,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Lewis Hamilton,Ferrari,7.0,4.0,12.0,Finished,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Lando Norris,McLaren,6.0,5.0,10.0,Finished,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Max Verstappen,Red Bull Racing,20.0,6.0,8.0,Finished,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Oliver Bearman,Haas,12.0,7.0,6.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Arvid Lindblad,Racing Bulls,9.0,8.0,4.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Gabriel Bortoleto,Audi,10.0,9.0,2.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Pierre Gasly,Alpine,14.0,10.0,1.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Esteban Ocon,Haas,13.0,11.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Alexander Albon,Williams,15.0,12.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Liam Lawson,Racing Bulls,8.0,13.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Franco Colapinto,Alpine,16.0,14.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Carlos Sainz,Williams,21.0,15.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Sergio Perez,Cadillac,18.0,16.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Lance Stroll,Aston Martin,22.0,17.0,0.0,Lapped,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Fernando Alonso,Aston Martin,17.0,18.0,0.0,Retired,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Valtteri Bottas,Cadillac,19.0,19.0,0.0,Retired,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Isack Hadjar,Red Bull Racing,3.0,20.0,0.0,Retired,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Oscar Piastri,McLaren,5.0,21.0,0.0,Did not start,36.134459459459464,0
+2026,Albert Park,Street/Hybrid,Medium-Speed / Flowing,Nico Hulkenberg,Audi,11.0,22.0,0.0,Did not start,36.134459459459464,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,George Russell,Mercedes,2.0,2.0,18.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Lewis Hamilton,Ferrari,3.0,3.0,15.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Charles Leclerc,Ferrari,4.0,4.0,12.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Oliver Bearman,Haas,10.0,5.0,10.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Pierre Gasly,Alpine,7.0,6.0,8.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Liam Lawson,Racing Bulls,14.0,7.0,6.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Isack Hadjar,Red Bull Racing,9.0,8.0,4.0,Finished,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Carlos Sainz,Williams,17.0,9.0,2.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Franco Colapinto,Alpine,12.0,10.0,1.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Nico Hulkenberg,Audi,11.0,11.0,0.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Arvid Lindblad,Racing Bulls,15.0,12.0,0.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Valtteri Bottas,Cadillac,19.0,13.0,0.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Esteban Ocon,Haas,13.0,14.0,0.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Sergio Perez,Cadillac,21.0,15.0,0.0,Lapped,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Max Verstappen,Red Bull Racing,8.0,16.0,0.0,Retired,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Fernando Alonso,Aston Martin,18.0,17.0,0.0,Retired,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Lance Stroll,Aston Martin,20.0,18.0,0.0,Retired,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Oscar Piastri,McLaren,5.0,19.0,0.0,Did not start,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Lando Norris,McLaren,6.0,20.0,0.0,Did not start,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Gabriel Bortoleto,Audi,16.0,21.0,0.0,Did not start,22.616447368421053,0
+2026,Shanghai,Permanent,Front-Limited / Technical,Alexander Albon,Williams,22.0,22.0,0.0,Did not start,22.616447368421053,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Kimi Antonelli,Mercedes,1.0,1.0,25.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Oscar Piastri,McLaren,3.0,2.0,18.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Charles Leclerc,Ferrari,4.0,3.0,15.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,George Russell,Mercedes,2.0,4.0,12.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Lando Norris,McLaren,5.0,5.0,10.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Lewis Hamilton,Ferrari,6.0,6.0,8.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Pierre Gasly,Alpine,7.0,7.0,6.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Max Verstappen,Red Bull Racing,11.0,8.0,4.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Liam Lawson,Racing Bulls,14.0,9.0,2.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Esteban Ocon,Haas,12.0,10.0,1.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Nico Hulkenberg,Audi,13.0,11.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Isack Hadjar,Red Bull Racing,8.0,12.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Gabriel Bortoleto,Audi,9.0,13.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Arvid Lindblad,Racing Bulls,10.0,14.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Carlos Sainz,Williams,16.0,15.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Franco Colapinto,Alpine,15.0,16.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Sergio Perez,Cadillac,19.0,17.0,0.0,Finished,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Fernando Alonso,Aston Martin,21.0,18.0,0.0,Lapped,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Valtteri Bottas,Cadillac,20.0,19.0,0.0,Lapped,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Alexander Albon,Williams,17.0,20.0,0.0,Lapped,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Lance Stroll,Aston Martin,22.0,21.0,0.0,Retired,34.14294871794871,0
+2026,Suzuka,Permanent,High-Speed-Flowing / Technical,Oliver Bearman,Haas,18.0,22.0,0.0,Retired,34.14294871794871,0

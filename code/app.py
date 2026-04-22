@@ -15,7 +15,9 @@ background_image_path = os.path.join(project_root, 'image_0.png')
 
 try:
     from engine import get_f1_prediction
-    from probability import get_probabilities 
+    from probability import get_probabilities
+    from engine_race import get_f1_race_prediction
+    from probability_race import get_race_probabilities
     from driver_team_circuit_constants import F1_2026_TRACKS
 except ImportError as e:
     st.error(f"❌ Kritik Hata: Modüller yüklenemedi! {e}")
@@ -86,7 +88,13 @@ col1, col2 = st.columns([1, 1])
 # SOL: Seans Sonuçları (Yarış yerine Seansın yazıldı)
 with col1:
     if st.button("Seansın sonuçlarını ver"):
-        results = get_f1_prediction(selected_gp, is_rainy)
+        if prediction_mode == "Race Tahmini":
+            results = get_f1_race_prediction(selected_gp, is_rainy)
+            score_col = "AI_Race_Score"
+        else:
+            results = get_f1_prediction(selected_gp, is_rainy)
+            score_col = "AI_Score"
+
         if results is not None:
             st.markdown(f"### 🏁 {selected_gp} Beklenen Sıralama")
             
@@ -94,13 +102,22 @@ with col1:
             final_table.columns = ['No', 'Driver', 'Team']
             
             st.table(final_table.set_index('No'))
+            if score_col in results.columns:
+                st.dataframe(
+                    results[["Rank", "Driver", "Team", score_col]]
+                    .head(22)
+                    .set_index("Rank")
+                )
         else:
             st.error("Hesaplama yapılamadı!")
 
 # SAĞ: Seansın Kazanılma Dağılımı (Yarış yerine Seansın yazıldı)
 with col2:
     if st.button("Seansın kazanılma dağılımı"):
-        probs = get_probabilities(selected_gp, is_rainy)
+        if prediction_mode == "Race Tahmini":
+            probs = get_race_probabilities(selected_gp, is_rainy)
+        else:
+            probs = get_probabilities(selected_gp, is_rainy)
         if probs is not None:
             st.markdown(f"### 🔮 {selected_gp} Galibiyet Olasılığı")
             
