@@ -1,0 +1,52 @@
+# Keep the build context small. Everything listed here is excluded
+# from the COPY context, which speeds up `docker build` and shrinks
+# the resulting image.
+
+# --- Git & version control ---
+.git/
+.gitignore
+.gitattributes
+
+# --- Python bytecode & virtual envs ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+.venv-*/
+venv/
+env/
+
+# --- IDE / editor / OS junk ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Testing & coverage outputs ---
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# --- Project-specific: FastF1 caches (large, regenerable) ---
+.f1_cache_race/
+.f1_cache_qualy/
+.fastf1-cache/
+
+# --- Local config & secrets — must NEVER ship in the image ---
+.env
+.env.local
+.env.*.local
+.streamlit/secrets.toml
+
+# --- Docs that aren't needed at runtime ---
+IMPROVEMENT_PLAN.md
+docs/
+
+# --- Misc ---
+*.log
+*.tmp
+*.bak
