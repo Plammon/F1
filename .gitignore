@@ -1,0 +1,65 @@
+# =====================================================================
+# F1 2026 Prediction Center — .gitignore
+# =====================================================================
+
+# --- Python bytecode & build artefacts ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+.eggs/
+
+# --- Virtual environments ---
+.venv/
+.venv-*/
+venv/
+env/
+ENV/
+
+# --- IDE / editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Operating system noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Testing & coverage (used once we add pytest/ruff in a later PR) ---
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+coverage.xml
+htmlcov/
+
+# --- Secrets & environment files ---
+# NEVER commit these. Use .env.example as a template instead.
+.env
+.env.local
+.env.*.local
+.streamlit/secrets.toml
+*.pem
+
+# --- Logs ---
+*.log
+
+# --- Project-specific ---
+# FastF1 ingestion caches — large, regenerated on demand by collect_*.py.
+# Do NOT remove from disk; only stop shipping them in clones.
+.f1_cache_race/
+.f1_cache_qualy/
+.fastf1-cache/
+
+# Local scratch files
+*.tmp
+*.bak
