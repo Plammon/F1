@@ -11,6 +11,11 @@ if current_dir not in sys.path:
     sys.path.append(current_dir)
 
 from driver_team_circuit_constants import F1_2026_TRACKS
+from prediction_context import (
+    apply_race_context,
+    blended_race_scores,
+    latest_2026_driver_snapshot,
+)
 
 
 def softmax(x, temperature=0.06):
@@ -31,28 +36,18 @@ def get_race_probabilities(gp_name, rain_status=0):
     feature_names = joblib.load(features_file)
     df = pd.read_csv(data_file)
 
-    active_drivers = df[df["Year"] == 2026]["Driver"].unique()
-    predict_df = (
-        df[df["Driver"].isin(active_drivers)]
-        .sort_values(["Year", "GP"])
-        .groupby("Driver")
-        .last()
-        .reset_index()
+    predict_df = latest_2026_driver_snapshot(df)
+    predict_df = apply_race_context(
+        predict_df,
+        df,
+        track_name=gp_name,
+        rain_status=rain_status,
     )
-
-    predict_df["GP"] = gp_name
-    predict_df["Rain"] = rain_status
-    predict_df["Year"] = 2026
-    predict_df["Track_Type"] = F1_2026_TRACKS[gp_name]["Type"]
-    predict_df["Track_DNA"] = F1_2026_TRACKS[gp_name]["DNA"]
-
-    if "Grid_Pos" in predict_df.columns:
-        predict_df["Grid_Pos"] = predict_df["Grid_Pos"].fillna(predict_df["Grid_Size"])
 
     X = pd.get_dummies(predict_df, columns=["GP", "Track_Type", "Track_DNA"])
     X = X.reindex(columns=feature_names, fill_value=0)
 
-    scores = model.predict(X)
+    scores = blended_race_scores(model.predict(X), predict_df)
     predict_df["Probability"] = softmax(scores) * 100
 
     return predict_df[["Driver", "Team", "Probability"]].sort_values(

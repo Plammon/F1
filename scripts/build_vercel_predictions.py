@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import sys
 import warnings
+from datetime import datetime, timezone
 from pathlib import Path
 
 
@@ -71,7 +72,10 @@ def probability_rows(track: str, mode: str, rain: int) -> list[dict[str, object]
 
 def build_predictions() -> dict[str, object]:
     payload: dict[str, object] = {
+        "generated_at_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "calendar": "Official 2026 Formula 1 calendar, 22 rounds",
         "tracks": list(F1_2026_TRACKS.keys()),
+        "track_metadata": F1_2026_TRACKS,
         "predictions": {"qualifying": {}, "race": {}},
     }
 

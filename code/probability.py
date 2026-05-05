@@ -3,6 +3,7 @@ import joblib
 import os
 import numpy as np
 from driver_team_circuit_constants import F1_2026_TRACKS
+from prediction_context import apply_qualifying_context, latest_2026_driver_snapshot
 
 def softmax(x, temperature=0.04):
     e_x = np.exp((x - np.max(x)) / temperature)
@@ -20,14 +21,13 @@ def get_probabilities(gp_name, rain_status=0):
     if gp_name not in F1_2026_TRACKS:
         return None
 
-    active_drivers = df[df['Year'] == 2026]['Driver'].unique()
-    predict_df = df[df['Driver'].isin(active_drivers)].sort_values(['Year', 'GP']).groupby('Driver').last().reset_index()
-
-    predict_df['GP'] = gp_name
-    predict_df['Rain'] = rain_status
-    predict_df['Year'] = 2026
-    predict_df['Track_Type'] = F1_2026_TRACKS[gp_name]['Type']
-    predict_df['Track_DNA'] = F1_2026_TRACKS[gp_name]['DNA']
+    predict_df = latest_2026_driver_snapshot(df)
+    predict_df = apply_qualifying_context(
+        predict_df,
+        df,
+        track_name=gp_name,
+        rain_status=rain_status,
+    )
 
     X = pd.get_dummies(predict_df, columns=['GP', 'Track_Type', 'Track_DNA'])
     X = X.reindex(columns=feature_names, fill_value=0)

@@ -1,48 +1,49 @@
-# Known Issues & Technical Debt
+# Known Issues And Technical Debt
 
-This file feeds the §1.7 "Known Issues & Technical Debt" appendix of the final report. Each entry: what, why deferred, how to fix.
+This file feeds the final report's "Known Issues and Technical Debt" appendix. Each entry states what remains, why it was deferred, and how to fix it.
 
 ---
 
-## TD-001 — XGBoost model pickle compatibility warnings
+## TD-001 - XGBoost model pickle compatibility warnings
 
-**Symptom.** When `engine.py`, `engine_race.py`, `probability.py`, or `probability_race.py` calls `joblib.load(...)` on the `.pkl` files in `models/`, XGBoost prints a `UserWarning` recommending the model be re-saved via `Booster.save_model`.
+**Symptom.** Loading the `.pkl` model files can print an XGBoost warning recommending the native `save_model` / `load_model` format.
 
-**Why it happens.** The model files were trained and pickled with an older XGBoost version. We are now running XGBoost 2.1.x. Pickle works across minor versions but XGBoost upstream warns that long-term compatibility is not guaranteed and prefers its own `save_model`/`load_model` (JSON/UBJ) format.
+**Why it happens.** The models were persisted with `joblib`. XGBoost supports this in the short term, but its native JSON/UBJ model format is safer across future XGBoost versions.
 
-**Why deferred.** Predictions still produce correct output; this is a logging/forward-compatibility issue, not a correctness one. Re-saving requires re-running the training scripts (`code/model_training.py`, `rcode/model_training_race.py`) which need the full training dataset and Optuna tuning runs — too costly for the final-week timeline.
+**Why deferred.** The models still load and predict correctly. Re-saving or retraining all models is lower priority than keeping the final demo stable.
 
 **How to fix later.**
-1. Re-run training (or write a one-off script that loads each `.pkl` and re-saves the underlying booster):
-   ```python
-   model = joblib.load("models/f1_optuna_pi_model.pkl")
-   model.get_booster().save_model("models/f1_optuna_pi_model.json")
-   ```
-2. Update the four loader modules to use `xgb.Booster(); booster.load_model("...json")` instead of `joblib.load`.
-3. Drop the `.pkl` files.
 
-**Logged.** 2026-05-05, during local smoke test of `requirements.txt`.
+1. Re-save the trained boosters with `model.get_booster().save_model("model.json")`.
+2. Update the loaders to use `xgb.Booster().load_model(...)`.
+3. Remove the old `.pkl` files once the new format is verified.
 
 ---
 
-## TD-002 — Dockerfile / docker-compose.yml not yet smoke-tested locally
+## TD-002 - Docker image not yet smoke-tested on a Docker host
 
-**Symptom.** `Dockerfile`, `.dockerignore`, and `docker-compose.yml` were authored but never exercised with `docker compose build` / `docker compose up` on a local machine, because no team member's primary dev box has Docker Desktop installed yet.
+**Symptom.** `Dockerfile` and `docker-compose.yml` exist, but they still need a full build/run smoke test on a machine with Docker Desktop or Docker Engine installed.
 
-**Why it happens.** Adding Docker Desktop on Windows pulls in WSL2, requires Windows feature toggles, and at least one reboot — too much friction during the final week. Streamlit Community Cloud (our deploy target) does not need Docker, so the lack of a local container test does not block deployment.
+**Why it happens.** The active development machine did not have Docker ready during the final integration window.
 
-**Why deferred.** The Dockerfile is built from conventional, documented patterns: `python:3.11-slim` base, `libgomp1` for XGBoost, non-root `appuser`, Streamlit's official `STREAMLIT_SERVER_*` environment variables, and a HEALTHCHECK against the documented `/_stcore/health` endpoint. The probability of a syntactic or runtime error is low, but is non-zero until verified.
+**Why deferred.** The public deployment uses Vercel, and the local Streamlit runtime can be tested directly with `streamlit run code/app.py`.
 
 **How to fix later.**
-1. On any machine with Docker installed, from the repo root:
-   ```bash
-   docker compose build
-   docker compose up
-   curl http://localhost:8501/_stcore/health   # expect: ok
-   ```
-2. If anything fails, fix and push.
-3. Recommended to do this at least 24 hours before the live demo so there is time to react.
 
-**Logged.** 2026-05-05, while bundling Improvement #4.
+```bash
+docker compose build
+docker compose up
+curl http://localhost:8501/_stcore/health
+```
 
 ---
+
+## TD-003 - Vercel deployment is a generated adapter, not the Streamlit websocket server
+
+**Symptom.** The primary app runtime is Streamlit, but the public Vercel URL serves a lightweight Flask UI backed by `predictions.json`.
+
+**Why it happens.** Vercel Python functions are optimized for request/response serverless handlers, while Streamlit expects a long-running Tornado/websocket process. The project also needs to stay below Vercel's 500 MB limit.
+
+**Why deferred.** The adapter keeps the public demo URL reliable, small, and aligned with the same prediction engine used by Streamlit. It avoids shipping the full data/model runtime into the Vercel function bundle.
+
+**How to fix later.** Move the public Streamlit runtime to a platform designed for long-running Python web apps, such as Streamlit Community Cloud, Render, Fly.io, or a container host, then keep Vercel only as a redirect if the course still requires that URL.

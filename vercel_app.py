@@ -16,6 +16,9 @@ app = Flask(__name__)
 TRACK_NAMES = list(PREDICTION_DATA["tracks"])
 TRACK_SET = set(TRACK_NAMES)
 DEFAULT_TRACK = TRACK_NAMES[0]
+TRACK_METADATA = PREDICTION_DATA.get("track_metadata", {})
+GENERATED_AT = PREDICTION_DATA.get("generated_at_utc", "unknown")
+CALENDAR_LABEL = PREDICTION_DATA.get("calendar", "Official 2026 Formula 1 calendar")
 MODE_LABELS = {
     "qualifying": "Qualifying",
     "race": "Race",
@@ -98,6 +101,13 @@ PAGE_TEMPLATE = """
         font-size: 0.84rem;
         text-align: center;
         text-transform: uppercase;
+      }
+
+      .source {
+        margin-top: 8px;
+        color: var(--muted);
+        font-size: 0.78rem;
+        line-height: 1.35;
       }
 
       .workspace {
@@ -375,7 +385,10 @@ PAGE_TEMPLATE = """
     <main>
       <header>
         <h1>F1 2026 Prediction Center</h1>
-        <div class="status">Vercel build</div>
+        <div>
+          <div class="status">22-round build</div>
+          <div class="source">Updated {{ generated_at }}</div>
+        </div>
       </header>
 
       <section class="workspace">
@@ -384,7 +397,9 @@ PAGE_TEMPLATE = """
             <label for="track">Grand Prix</label>
             <select id="track" name="track">
               {% for option in tracks %}
-                <option value="{{ option }}" {% if option == selected_track %}selected{% endif %}>{{ option }}</option>
+                <option value="{{ option }}" {% if option == selected_track %}selected{% endif %}>
+                  R{{ track_metadata[option].Round }} - {{ option }}
+                </option>
               {% endfor %}
             </select>
           </div>
@@ -417,7 +432,7 @@ PAGE_TEMPLATE = """
         <section class="results">
           <div class="results-header">
             <h2>{{ heading }}</h2>
-            <div class="meta">{{ selected_track }} / {{ mode_label }} / {{ weather }}</div>
+            <div class="meta">{{ event }} / {{ mode_label }} / {{ weather }}</div>
           </div>
 
           {% if error %}
@@ -484,7 +499,7 @@ def _request_state() -> tuple[str, str, bool, str, bool]:
         view = "ranking"
 
     rain = request.args.get("rain") == "1"
-    submitted = "view" in request.args
+    submitted = True
     return selected_track, mode, rain, view, submitted
 
 
@@ -501,6 +516,7 @@ def _prediction_rows(selected_track: str, mode: str, rain: bool, view: str) -> l
 @app.get("/")
 def index():
     selected_track, mode, rain, view, submitted = _request_state()
+    track_info = TRACK_METADATA.get(selected_track, {})
     rows = []
     error = ""
 
@@ -513,7 +529,9 @@ def index():
     return render_template_string(
         PAGE_TEMPLATE,
         tracks=TRACK_NAMES,
+        track_metadata=TRACK_METADATA,
         selected_track=selected_track,
+        event=track_info.get("Event", selected_track),
         mode=mode,
         mode_label=MODE_LABELS[mode],
         rain=rain,
@@ -523,6 +541,8 @@ def index():
         rows=rows,
         submitted=submitted,
         error=error,
+        generated_at=GENERATED_AT,
+        calendar=CALENDAR_LABEL,
     )
 
 
@@ -533,9 +553,11 @@ def predict_api():
     return jsonify(
         {
             "track": selected_track,
+            "event": TRACK_METADATA.get(selected_track, {}).get("Event", selected_track),
             "mode": mode,
             "weather": "wet" if rain else "dry",
             "view": view,
+            "generated_at_utc": GENERATED_AT,
             "results": rows,
         }
     )
