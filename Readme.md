@@ -106,6 +106,24 @@ The race pipeline lives in `rcode/` and follows the same five steps with `_race`
 
 > The first run will download several seasons of FastF1 telemetry into a local cache directory (`.f1_cache_qualy/` / `.f1_cache_race/`). These directories are git-ignored and may grow to a few hundred MB.
 
+## Configuration & secrets
+
+The application does not require any external API keys or credentials at the moment, but the project follows a standard 12-factor pattern in case any are added later:
+
+- A tracked template file [`.env.example`](./.env.example) documents every environment variable the app understands, with placeholder values only.
+- Real values live in a local `.env` file which is listed in `.gitignore` and must never be committed.
+- For Streamlit-specific secrets, the convention is to use `.streamlit/secrets.toml` — that path is also git-ignored.
+- In production (Streamlit Community Cloud, Render, etc.) values are set through the platform's environment-variable UI, never shipped in the repository.
+
+To get started locally:
+
+```bash
+cp .env.example .env        # macOS / Linux
+Copy-Item .env.example .env # PowerShell
+```
+
+then edit `.env` with whatever overrides you need.
+
 ## Deployment
 
 > **Live URL:** *to be added once the application is deployed.*
