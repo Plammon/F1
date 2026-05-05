@@ -38,11 +38,11 @@ curl http://localhost:8501/_stcore/health
 
 ---
 
-## TD-003 - Vercel deployment is a generated adapter, not the Streamlit websocket server
+## TD-003 - Vercel deployment is a generated web adapter, not the Streamlit websocket server
 
-**Symptom.** The primary app runtime is Streamlit, but the public Vercel URL serves a lightweight Flask UI backed by `predictions.json`.
+**Symptom.** The primary local app runtime is Streamlit, but the public Vercel URL serves a React/Vite dashboard through a lightweight Flask adapter backed by `predictions.json`.
 
-**Why it happens.** Vercel Python functions are optimized for request/response serverless handlers, while Streamlit expects a long-running Tornado/websocket process. The project also needs to stay below Vercel's 500 MB limit.
+**Why it happens.** Vercel Python functions are optimized for request/response serverless handlers, while Streamlit expects a long-running Tornado/websocket process. The project also needs to stay below Vercel's 500 MB function size limit, so the public website ships precomputed prediction data instead of model files and training datasets.
 
 **Why deferred.** The adapter keeps the public demo URL reliable, small, and aligned with the same prediction engine used by Streamlit. It avoids shipping the full data/model runtime into the Vercel function bundle.
 

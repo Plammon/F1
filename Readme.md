@@ -1,64 +1,66 @@
 # F1 2026 Prediction Center
 
-A Streamlit application that predicts qualifying and race performance for the 2026 Formula 1 season. It uses trained XGBoost models, historical FastF1-derived data from 2022-2025, and a 2026 driver/circuit scenario layer. Users select a Grand Prix, session type, and dry/wet condition; the app returns a ranked driver order and a win-probability distribution.
+F1 2026 Prediction Center is an academic web application for predicting Formula 1 qualifying and race outcomes across the 2026 calendar. Users select a Grand Prix, session type, weather condition, and output view, then the deployed site returns either a predicted classification or a win-probability ranking.
 
-## Features
+Public deployment: https://f1-alpha-jet.vercel.app
 
-- Qualifying mode: predicted grid order based on a per-driver performance index.
-- Race mode: predicted finishing order based on a race-pace model plus engineered race scenario features.
-- Weather toggle: dry and wet sessions adjust rain, track temperature, and driver track/weather form inputs.
-- Win probability: softmax over the prediction scores, rendered as a Plotly pie chart in Streamlit.
-- Official 2026 calendar scope: 22 rounds from the published Formula 1 2026 calendar.
+Repository: https://github.com/ysfkrkmz35/F1
 
-## Runtime And Deployment
+## Website Features
 
-The source-of-truth application runtime is Streamlit:
+- Desktop-focused prediction dashboard for live demo use.
+- 2026 calendar selector covering 22 Formula 1 rounds.
+- Qualifying and race prediction modes.
+- Dry and wet weather scenarios.
+- Classification and win-probability views.
+- Public Vercel deployment backed by precomputed prediction data.
+- Health endpoint at `/health` and JSON prediction endpoint at `/api/predict`.
 
-```bash
-streamlit run code/app.py
-```
-
-The public Vercel URL is a size-safe deployment adapter for the same product. Vercel's Python functions are not a good fit for a long-running Streamlit websocket server, and the project must stay below Vercel's 500 MB deployment limit. To keep the public URL reliable and small, `scripts/build_vercel_predictions.py` runs the trained models ahead of deployment and writes `predictions.json`; `vercel_app.py` serves that payload through a lightweight Flask UI and JSON API.
-
-Public URL: https://f1-alpha-jet.vercel.app
-
-## Tech Stack
+## Website Tech Stack
 
 | Layer | Technology |
 |---|---|
-| Language | Python 3.11+ |
-| Primary web UI | Streamlit, Plotly |
-| Vercel public adapter | Flask, precomputed JSON |
-| Data | pandas, NumPy |
-| Machine learning | XGBoost, scikit-learn, Optuna |
-| F1 data ingestion | FastF1, tqdm |
-| Model persistence | joblib |
+| Public frontend | React 19, Vite |
+| Public API adapter | Flask on Vercel Python Functions |
+| Deployment payload | `predictions.json` precomputed from the trained models |
+| Source model runtime | Python, pandas, NumPy, scikit-learn, XGBoost |
+| Local full app runtime | Streamlit, Plotly |
+| Deployment platform | Vercel |
 
-Dependencies for the full Streamlit/model runtime are listed in `requirements.txt`. The Vercel adapter uses `pyproject.toml` and intentionally installs only the small dependencies needed by the public deployment.
+The full Streamlit/model runtime remains in `requirements.txt`. The Vercel website runtime intentionally uses the minimal `pyproject.toml` dependency set so the serverless deployment stays below Vercel's function size limit.
 
 ## Project Structure
 
 ```text
 F1/
-├── code/                       # Streamlit app, qualifying engine, shared constants
-├── rcode/                      # Race data and model pipeline
-├── dataset/                    # Qualifying CSV data
-├── rdataset/                   # Race CSV data
-├── models/                     # Trained model files and feature-name lists
-├── scripts/                    # Vercel prediction-payload builder
-├── api/index.py                # Vercel function entrypoint
-├── vercel_app.py               # Lightweight Vercel UI/API adapter
-├── predictions.json            # Generated deployment payload
-├── image_0.png                 # UI background image
-├── requirements.txt            # Full Streamlit/model runtime dependencies
-├── pyproject.toml              # Vercel adapter dependencies
-└── vercel.json                 # Vercel routing config
+|-- api/index.py                 # Vercel function entrypoint
+|-- vercel_app.py                # Flask adapter serving the public website and API
+|-- vercel.json                  # Vercel routing and function config
+|-- pyproject.toml               # Minimal Vercel website dependencies
+|-- predictions.json             # Generated prediction payload used by the public site
+|-- image_0.png                  # Website background image
+|-- web/
+|   |-- src/                     # React dashboard source
+|   |-- dist/                    # Built Vite assets served in production
+|   |-- package.json             # Frontend scripts and dependencies
+|-- code/                        # Streamlit app and qualifying prediction engine
+|-- rcode/                       # Race data and model pipeline
+|-- dataset/                     # Qualifying CSV data
+|-- rdataset/                    # Race CSV data
+|-- models/                      # Trained model files and feature-name lists
+|-- scripts/                     # Prediction payload generation and verification scripts
+|-- docs/KNOWN_ISSUES.md         # Technical debt appendix for the final report
+|-- Dockerfile                   # Container definition for the full Streamlit app
+|-- docker-compose.yml           # Local container orchestration file
+|-- requirements.txt             # Full Streamlit/model runtime dependencies
 ```
 
 ## Local Setup
 
+Install the full Python runtime when you need to run the Streamlit version or rebuild model outputs:
+
 ```powershell
-git clone https://github.com/Plammon/F1.git
+git clone https://github.com/ysfkrkmz35/F1.git
 cd F1
 python -m venv .venv
 .\.venv\Scripts\activate
@@ -66,9 +68,26 @@ pip install -r requirements.txt
 streamlit run code/app.py
 ```
 
-The app opens at http://localhost:8501.
+The Streamlit app opens at http://localhost:8501.
 
-## Rebuilding The Vercel Payload
+## Frontend Development
+
+The public Vercel website uses the React/Vite app in `web/`.
+
+```powershell
+cd web
+npm install
+npm run dev
+```
+
+Before deployment, rebuild the static assets that Flask serves from `web/dist`:
+
+```powershell
+cd web
+npm run build
+```
+
+## Rebuilding The Vercel Prediction Payload
 
 After changing model logic, calendar constants, or datasets:
 
@@ -77,31 +96,46 @@ python scripts/build_vercel_predictions.py
 python scripts/verify_prediction_payload.py
 ```
 
-This regenerates `predictions.json` from the same prediction modules used by Streamlit. The deployed package remains small because `.vercelignore` includes only the Flask adapter, generated JSON payload, background image, and Vercel config.
+This regenerates `predictions.json`, which is the data source used by the public website. The deployed Vercel package includes only the Flask adapter, generated JSON payload, background image, routing config, and built Vite assets; it does not ship the full model files or training datasets.
 
-## Models And Calendar Mapping
+## Deployment
 
-The user-facing app shows circuit names such as `Albert Park`, `COTA`, and `Yas Marina`. The saved qualifying and race models were trained with different GP labels in several places, so `code/driver_team_circuit_constants.py` stores model aliases for each circuit. This prevents one-hot GP features from being zero-filled during inference.
+The deployed website is reachable at:
 
-Madrid is new for the 2026 calendar, so it uses the historical Spanish GP as the nearest GP proxy while retaining a distinct track type and race scenario profile.
+https://f1-alpha-jet.vercel.app
 
-## Configuration And Secrets
+Vercel is used because the final assignment requires a public URL for the live demo and the project already fits a request/response deployment model when predictions are precomputed. The production deployment serves:
 
-No external API keys or secrets are required. `.env.example` documents the current convention for future environment variables. Real `.env` files and Streamlit secrets are git-ignored and should not be committed.
+- `/` for the React dashboard.
+- `/api/predict` for prediction data.
+- `/health` for deployment health checks.
+- `/background.png` for the dashboard image.
 
-## Known Issues And Technical Debt
+No secrets are required for the public demo. Real environment files are ignored by Git; `.env.example` documents the convention for future configuration.
 
-Tracked in `docs/KNOWN_ISSUES.md`.
+## Demo Walkthrough
+
+For the final assignment live demo, open the public URL and walk through this website user story:
+
+1. Select a Grand Prix from the 2026 calendar.
+2. Switch between Qualifying and Race.
+3. Toggle Dry and Wet weather.
+4. Compare Classification and Win Probability views.
+5. Explain that the public site is served from Vercel using precomputed model outputs in `predictions.json`.
+
+## Quality And Technical Debt
+
+Known website and deployment tradeoffs are tracked in `docs/KNOWN_ISSUES.md`. The most important deployment tradeoff is that Vercel serves a generated web adapter rather than the long-running Streamlit websocket server.
 
 ## Team
 
-| Name | Role |
+| Name | Contribution area |
 |---|---|
-| Eren Ozsahin |  |
-| Furkan Ukus |  |
-| Baran Karluk |  |
-| Baris Aydin |  |
-| Yusuf Korkmaz |  |
+| Eren Ozsahin | Project implementation and final demo support |
+| Furkan Ukus | Project implementation and final demo support |
+| Baran Karluk | Project implementation and final demo support |
+| Baris Aydin | Project implementation and final demo support |
+| Yusuf Korkmaz | Project implementation, web deployment, and final demo support |
 
 ## Acknowledgements
 

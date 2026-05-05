@@ -102,6 +102,7 @@ def main() -> None:
     output_path.write_text(
         json.dumps(build_predictions(), indent=2),
         encoding="utf-8",
+        newline="\n",
     )
     print(f"Wrote {output_path}")
 
