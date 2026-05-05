@@ -1,0 +1,35 @@
+# =====================================================================
+# F1 2026 Prediction Center — local development & demo orchestration
+# =====================================================================
+# Bring up:    docker compose up --build
+# Tear down:   docker compose down
+# Tail logs:   docker compose logs -f
+# =====================================================================
+
+services:
+  f1-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: f1-app:local
+    container_name: f1-app
+    ports:
+      - "8501:8501"
+    restart: unless-stopped
+    # Optional .env file for future secrets/config — never commit a real .env.
+    # An .env.example will be added in a later PR as a template.
+    env_file:
+      - path: .env
+        required: false
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8501/_stcore/health').status == 200 else 1)",
+        ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
