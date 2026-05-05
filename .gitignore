@@ -63,3 +63,4 @@ htmlcov/
 # Local scratch files
 *.tmp
 *.bak
+.vercel

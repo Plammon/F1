@@ -126,7 +126,7 @@ then edit `.env` with whatever overrides you need.
 
 ## Deployment
 
-> **Live URL:** *to be added once the application is deployed.*
+> **Live URL:** https://f1-alpha-jet.vercel.app
 
 Deployment is documented in [`docs/`](./docs/) (forthcoming).
 

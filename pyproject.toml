@@ -1,0 +1,8 @@
+[project]
+name = "f1-vercel"
+version = "0.1.0"
+description = "Vercel Flask runtime for the F1 2026 Prediction Center."
+requires-python = ">=3.11,<3.13"
+dependencies = [
+  "flask>=3.0,<4.0",
+]
