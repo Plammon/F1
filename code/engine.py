@@ -9,11 +9,10 @@ if current_dir not in sys.path:
     sys.path.append(current_dir)
 
 try:
-    # Dosya adını 'constants' olarak güncelledik kanka
     from driver_team_circuit_constants import F1_2026_TRACKS
+    from prediction_context import apply_qualifying_context, latest_2026_driver_snapshot
 except ModuleNotFoundError:
     print("\n❌ HATA: 'driver_team_circuit_constants.py' bulunamadı!")
-    print("💡 Lütfen klasördeki dosya adını 'constants' (t harfiyle) olarak düzelt.")
     sys.exit(1)
 
 def get_f1_prediction(gp_name, rain_status=0):
@@ -31,25 +30,19 @@ def get_f1_prediction(gp_name, rain_status=0):
         print(f"📍 Mevcutlar: {list(F1_2026_TRACKS.keys())[:5]}...")
         return None
 
-    # Sözlükten DNA ve Tip bilgilerini çekiyoruz
-    track_type = F1_2026_TRACKS[gp_name]['Type']
-    track_dna = F1_2026_TRACKS[gp_name]['DNA']
-
     # 3. Model ve Veriyi Yükle
     model = joblib.load(model_file)
     feature_names = joblib.load(features_file)
     df = pd.read_csv(data_file)
 
     # 4. Sadece 2026 Aktif Pilotlarını Al
-    active_drivers = df[df['Year'] == 2026]['Driver'].unique()
-    predict_df = df[df['Driver'].isin(active_drivers)].sort_values(['Year', 'GP']).groupby('Driver').last().reset_index()
-
-    # 5. Girdi Verilerini Yarışa Göre Ayarla
-    predict_df['GP'] = gp_name
-    predict_df['Rain'] = rain_status
-    predict_df['Year'] = 2026
-    predict_df['Track_Type'] = track_type
-    predict_df['Track_DNA'] = track_dna
+    predict_df = latest_2026_driver_snapshot(df)
+    predict_df = apply_qualifying_context(
+        predict_df,
+        df,
+        track_name=gp_name,
+        rain_status=rain_status,
+    )
 
     # 6. Encoding ve Hizalama (En kritik kısım burası)
     X = pd.get_dummies(predict_df, columns=['GP', 'Track_Type', 'Track_DNA'])

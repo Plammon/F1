@@ -14,6 +14,15 @@ dist/
 *.egg
 .eggs/
 
+# Flask serves the prebuilt Vite bundle on Vercel, so keep only this dist visible.
+!web/dist/
+!web/dist/**
+
+# --- Frontend dependencies & local build state ---
+node_modules/
+web/node_modules/
+web/.vite/
+
 # --- Virtual environments ---
 .venv/
 .venv-*/
@@ -63,3 +72,4 @@ htmlcov/
 # Local scratch files
 *.tmp
 *.bak
+.vercel
